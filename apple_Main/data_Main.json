@@ -4,14 +4,15 @@
         "title":"Main!",
         "version":"1.0",
         "date":"07.04.2026",
-        "language":"iPhone shortcut",
-
-        "developer_Name": "@Wajsar_Josef",
-        "developer_Email": "Wajsar.Josef@hotmail.com",
         "path_Github":"https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/apple_Main",
 
         "description_cs":"",
         "description_en":"",
+        
+        "language":"iPhone shortcut",
+
+        "developer_Name": "@Wajsar_Josef",
+        "developer_Email": "Wajsar.Josef@hotmail.com",
 
         "label_Name_cs": "Název:",
         "label_Version_cs": "Verze:",

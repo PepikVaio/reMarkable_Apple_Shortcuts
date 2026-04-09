@@ -1,0 +1,30 @@
+{
+   "info":{
+      "title":"Diacritics CS!",
+      "version":"2.0",
+      "description":"Adding diacritics to the text."
+   },
+   
+   "release":{
+      "title":"New Update!",
+      "content":[
+         "A new version is available, please update before continuing.",
+         "You will be redirected to the Github page for the download and some shortcut data will also be deleted."
+      ],
+      "news":[
+         "* English language added.",
+         "* Added option to delete clipboard.",
+         "* Added check for new updates.",
+         "* Moving the texts to the Github server and the ability to correct errors in the text on the fly.",
+         "* Saving configuration files to iCloud Drive.",
+         "* Changed the notification for inserting edited text."
+      ]
+   },
+   
+   "chatGPT":{
+      "info":"Insert the text for which you want to add diacritics.",
+      "input": "Doplň diakritiku: ",
+      "title":"Done!",
+      "content":"Diacritics have been added to the text, you have it saved in your clipboard."
+   }
+}

@@ -13,13 +13,20 @@
 
         "developer_Email": "Wajsar.Josef@hotmail.com",
 
-        "label_Name_cs": "Název:",
-        "label_Version_cs": "Verze:",
-        "label_Developer_cs": "Vývojář:",
-
-        "label_Name_en": "Name:",
-        "label_Version_en": "Version:",
-        "label_Developer_en": "Developer:",
+        "label": {
+          "name": {
+            "cs": "Název:",
+            "en": "Name:"
+          },
+          "version": {
+            "cs": "Verze:",
+            "en": "Version:"
+          },
+          "developer": {
+            "cs": "Vývojář:",
+            "en": "Developer:"
+          }
+        }
     },
 
     "first_Run": {

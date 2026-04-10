@@ -3,15 +3,10 @@
       "title":"Diacritics CS!",
       "version":"2.0",
       "description":"Doplnění diakritiky do textu.",
-      "github_path":"https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Diacritics_CS"
+      "github_Path":"https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Diacritics_CS"
    },
     
    "release":{
-      "title":"Nová aktualizace!",
-      "content":[
-         "K dispozici je nová verze, před pokračováním prosím aktualizujte.",
-         "Budete přesměrováni na stránku Github pro stažení a také se smažou některé data zkratky."
-      ],
       "news":[
          "Přidán anglický jazyk.",
          "* Přidaná možnost smazat schránku.",

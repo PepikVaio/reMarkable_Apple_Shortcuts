@@ -4,8 +4,10 @@
         "title":"Main!",
         "version":"1.0",
 
-        "description_cs":"",
-        "description_en":"",
+        "description": {
+          "cs": "",
+          "en": ""
+        },
         
         "language":"iPhone shortcut",
 
@@ -46,30 +48,31 @@
         ],
     },
 	
-    "label_Description_cs": [
+    "label_Description": {
+      "cs": [
         "*** Popis: ***",
-        "------------------------",
-    ],
-
-    "label_Description_en": [
+        "------------------------"
+      ],
+      "en": [
         "*** Description: ***",
-        "------------------------",
-    ],
+        "------------------------"
+      ]
+    },
 
-    "payment_cs": [
+    "payment": {
+      "cs": [
         "*** Pokud se rozhodnete přispět! ***",
         "-------------------------------------",
         "Číslo účtu: 1358053048/3030",
         "Zpráva: [název zkratky]"
-    ],
-
-    "payment_en": [
+      ],
+      "en": [
         "*** If you decide to contribute! ***",
-        "----------------------------------",
+        "-------------------------------------",
         "Account number: 1358053048/3030",
-        "Message: [name apple shortcuts]"
-    ],
-
+        "Message: [shortcut name]"
+      ]
+    },
 
     "release": {
         "install_Title_cs": [

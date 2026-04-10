@@ -2,25 +2,49 @@
    "info":{
       "title":"Diacritics CS!",
       "version":"2.0",
-      "description":"Doplnění diakritiky do textu.",
-      "github_Path":"https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Diacritics_CS"
+      "github_Path":"https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Diacritics_CS",
+
+      "description": {
+        "cs": "Doplnění diakritiky do textu.",
+        "en": "Adding diacritics to text."
+      }
    },
     
-   "release":{
-      "news":[
-         "Přidán anglický jazyk.",
-         "* Přidaná možnost smazat schránku.",
-         "* Přidaná kontrola nových aktualizací.",
-         "* Přesun textů na Github server a možnosti opravovat chyby v textu za běhu.",
-         "* Ukládání konfiguračních souborů na iCloud Drive.",
-         "* Změna oznámení o vložení upraveného textu."
-      ]
+   "news": {
+     "cs": [
+        "Přidán anglický jazyk.",
+        "* Přidaná možnost smazat schránku.",
+        "* Přidaná kontrola nových aktualizací.",
+        "* Přesun textů na Github server a možnosti opravovat chyby v textu za běhu.",
+        "* Ukládání konfiguračních souborů na iCloud Drive.",
+        "* Změna oznámení o vložení upraveného textu."
+     ],
+     "en": [
+        "English language added.",
+        "* Added option to clear the clipboard.",
+        "* Added check for new updates.",
+        "* Moved texts to GitHub server with ability to fix text errors on the fly.",
+        "* Saving configuration files to iCloud Drive.",
+        "* Changed notification for inserting modified text."
+     ]
    },
-   
-   "chatGPT":{
-      "info":"Vložte text, u kterého chcete doplnit diakritiku.",
-      "input": "Doplň diakritiku: ",
-      "title":"Hotovo!",
-      "content":"Do textu byla přidaná diakritika, máte ji uloženou ve schránce."
+
+   "chatGPT": {
+     "info": {
+       "cs": "Vložte text, u kterého chcete doplnit diakritiku.",
+       "en": "Enter the text you want to add diacritics to."
+     },
+     "input": {
+       "cs": "Doplň diakritiku: ",
+       "en": "Add diacritics: "
+     },
+     "title": {
+       "cs": "Hotovo!",
+       "en": "Done!"
+     },
+     "content": {
+       "cs": "Do textu byla přidaná diakritika, máte ji uloženou ve schránce.",
+       "en": "Diacritics have been added to the text and it has been copied to the clipboard."
+     }
    }
 }

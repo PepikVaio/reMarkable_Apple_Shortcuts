@@ -31,6 +31,20 @@
     }
   },
 
+  "menu": {
+      "01": {
+        "title": {
+            "cs": "┃Dokonalý text, bez starostí",
+            "en": "┃Perfect text, no worries"
+        },
+        "content": {
+            "cs": "Přidejte si diakritiku do textu.",
+            "en": "Add diacritics to your text."
+        }
+      }
+  },
+
+
   "chatGPT": {
     "info": {
       "cs": "Vložte text, u kterého chcete doplnit diakritiku.",

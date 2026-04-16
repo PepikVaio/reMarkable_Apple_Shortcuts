@@ -47,7 +47,7 @@
     "thank_You_Content": {
       "cs": [
         "",
-        "Vážený uživateli, děkuji, že jste si stáhl moji zkratku. Doufám, že vám bude přinášet užitek a zpříjemní vám váš den. Pokud budete mít jakékoli dotazy nebo připomínky, neváhejte mě kontaktovat.",
+        "Vážený uživateli, děkuji, že jste si stáhl moji zkratku. Doufám, že vám bude přinášet užitek a zpříjemní váš den. Pokud budete mít jakékoli dotazy nebo připomínky, neváhejte mě kontaktovat.",
         "",
         "*** Dobrovolné příspěvky! ***",
         "------------------------------",
@@ -119,6 +119,14 @@
   },
 
   "menu": {
+    "01": {
+        "title": {
+            "cs": "┃*** Vítejte v Apple Shortcuts! ***",
+            "en": "┃*** Welcome to Apple Shortcuts! ***"
+        }
+    },
+
+
     "99": {
       "title": {
         "cs": "┃*** Nastavení! ***",

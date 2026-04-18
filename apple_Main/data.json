@@ -54,40 +54,6 @@
     ]
   },
 
-  "release": {
-    "install_Title": {
-      "cs": [
-        "┃*** Nová aktualizace! ***",
-        "┃K dispozici je nová verze"
-      ],
-      "en": [
-        "┃*** New Update! ***",
-        "┃A new version is available."
-      ]
-    },
-    "install_Content": {
-      "cs": [
-        "",
-        "Před pokračováním prosím aktualizujte.",
-        "Budete přesměrováni na stránku Github pro stažení nové verze."
-      ],
-      "en": [
-        "",
-        "Please update before continuing.",
-        "You will be redirected to the Github page to download the new version."
-      ]
-    },
-    "installed_Title": {
-      "cs": [
-        "┃*** Aktualizace nainstalovaná! ***",
-        "┃Skvělé, máte aktuální verzi"
-      ],
-      "en": [
-        "┃*** Update installed! ***",
-        "┃Great, you have the latest version."
-      ]
-    }
-  },
 
 
 
@@ -110,6 +76,22 @@
           "  * Veškeré info najdete v části 'O zkratce' v 'Nastavení'."
       ]
   },
+
+    "release": {
+      "title": [
+        "┃*** Nová aktualizace! ***",
+        "┃K dispozici je nová verze"
+      ],
+      "content": [
+        "",
+        "Před pokračováním prosím aktualizujte.",
+        "Budete přesměrováni na stránku Github pro stažení nové verze."
+      ],
+      "installed": [
+        "┃*** Aktualizace nainstalovaná! ***",
+        "┃Skvělé, máte aktuální verzi"
+      ]
+    },
 
     "menu": {
 
@@ -158,6 +140,22 @@
           "  * All information can be found in the 'About Shortcuts' section in 'Settings'."
       ]
   },
+
+    "release": {
+      "title": [
+        "┃*** New Update! ***",
+        "┃A new version is available."
+      ],
+      "content": [
+        "",
+        "Please update before continuing.",
+        "You will be redirected to the Github page to download the new version."
+      ],
+      "installed": [
+        "┃*** Update installed! ***",
+        "┃Great, you have the latest version."
+      ]
+    },
 
     "menu": {
 

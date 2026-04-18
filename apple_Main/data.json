@@ -38,35 +38,6 @@
     }
   },
 
-  "first_Run": {
-    "thank_You_Title": {
-      "cs": "┃*** Děkuji za stažení! ***",
-      "en": "┃*** Thank you for downloading! ***"
-    },
-
-    "thank_You_Content": {
-      "cs": [
-        "",
-        "Vážený uživateli, děkuji, že jste si stáhl moji zkratku. Doufám, že vám bude přinášet užitek a zpříjemní váš den. Pokud budete mít jakékoli dotazy nebo připomínky, neváhejte mě kontaktovat.",
-        "",
-        "*** Dobrovolné příspěvky! ***",
-        "------------------------------",
-        "  * Moje zkratka je zcela zdarma a veškeré její funkce jsou dostupné bez jakýchkoli poplatků. Pokud však chcete podpořit další vývoj a ocenit moji práci, můžete přispět dobrovolným příspěvkem.",
-        "",
-        "  * Veškeré info najdete v části 'O zkratce' v 'Nastavení'."
-      ],
-      "en": [
-        "",
-        "Dear user, thank you for downloading my shortcut. I hope it will be useful to you and brighten your day. If you have any questions or feedback, please feel free to contact me.",
-        "",
-        "*** Voluntary Contributions! ***",
-        "--------------------------------",
-        "  * My shortcut is completely free and all its features are available at no cost. However, if you would like to support further development and appreciate my work, you can make a voluntary contribution.",
-        "",
-        "  * All information can be found in the 'About Shortcuts' section in 'Settings'."
-      ]
-    }
-  },
 
   "payment": {
     "cs": [
@@ -126,6 +97,20 @@
 
   "cs": {
 
+    "first_Run": {
+      "title": "┃*** Děkuji za stažení! ***",
+      "content": [
+          "",
+          "Vážený uživateli, děkuji, že jste si stáhl moji zkratku. Doufám, že vám bude přinášet užitek a zpříjemní váš den. Pokud budete mít jakékoli dotazy nebo připomínky, neváhejte mě kontaktovat.",
+          "",
+          "*** Dobrovolné příspěvky! ***",
+          "------------------------------",
+          "  * Moje zkratka je zcela zdarma a veškeré její funkce jsou dostupné bez jakýchkoli poplatků. Pokud však chcete podpořit další vývoj a ocenit moji práci, můžete přispět dobrovolným příspěvkem.",
+          "",
+          "  * Veškeré info najdete v části 'O zkratce' v 'Nastavení'."
+      ]
+  },
+
     "menu": {
 
       "01": {
@@ -153,11 +138,26 @@
         ]
       }
 
-    }
+    },
+
 
   },
 
   "en": {
+
+    "first_Run": {
+      "title": "┃*** Thank you for downloading! ***",
+      "content": [
+          "",
+          "Dear user, thank you for downloading my shortcut. I hope it will be useful to you and brighten your day. If you have any questions or feedback, please feel free to contact me.",
+          "",
+          "*** Voluntary Contributions! ***",
+          "--------------------------------",
+          "  * My shortcut is completely free and all its features are available at no cost. However, if you would like to support further development and appreciate my work, you can make a voluntary contribution.",
+          "",
+          "  * All information can be found in the 'About Shortcuts' section in 'Settings'."
+      ]
+  },
 
     "menu": {
 
@@ -186,7 +186,8 @@
         ]
       }
 
-    }
+    },
+
 
   },
 

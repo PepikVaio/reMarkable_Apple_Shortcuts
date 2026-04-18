@@ -31,18 +31,32 @@
     }
   },
 
-  "menu": {
+  "cs": {
+
+    "menu": {
+
       "01": {
-        "title": {
-            "cs": "┃Dokonalý text, bez starostí",
-            "en": "┃Perfect text, no worries"
-        },
-        "content": {
-            "cs": "Přidejte si diakritiku do textu.",
-            "en": "Add diacritics to your text."
-        }
+        "title": "┃Dokonalý text, bez starostí",
+        "content": "Přidejte si diakritiku do textu."
       }
+
+    }
+
   },
+
+  "en": {
+
+    "menu": {
+
+      "01": {
+        "title": "┃Perfect text, no worries",
+        "content": "Add diacritics to your text."
+      }
+
+    }
+
+  },
+
 
 
   "chatGPT": {

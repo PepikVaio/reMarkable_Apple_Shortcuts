@@ -141,7 +141,7 @@
         "submenu_Switch": "Přepnout jazyk na Angličtinu",
         "submenu_Reset": "Resetovat nastavení",
 
-        "back": "❮ Zpět",
+        "submenu_Back": "❮ Zpět",
 
         "feedback_Device": "Zařízení:",
         "feedback_Version": "Verze systému:",
@@ -174,7 +174,7 @@
         "submenu_Switch": "Switch language to Czech",
         "submenu_Reset": "Reset settings",
 
-        "back": "❮ Back",
+        "submenu_Back": "❮ Back",
 
         "feedback_Device": "Device:",
         "feedback_Version": "System version:",

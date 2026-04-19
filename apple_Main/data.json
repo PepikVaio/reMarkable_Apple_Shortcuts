@@ -98,7 +98,7 @@
       "title": "┃*** Vítejte v Apple Shortcuts! ***",
 
       "99": {
-        "title": "┃*** Nastavení! ***",
+        "title": "Nastavení",
         "content": "O zkratce, Poslat zpětnou vazbu, Resetovat nastavení ...",
 
         "submenu_About": "O zkratce",
@@ -160,7 +160,7 @@
       "title": "┃*** Welcome to Apple Shortcuts! ***",
 
       "99": {
-        "title": "┃*** Settings! ***",
+        "title": "Settings",
         "content": "About, Send feedback, Reset settings ...",
 
         "submenu_About": "About",

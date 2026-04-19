@@ -32,7 +32,17 @@
         "*** Popis: ***",
         "-------------",
         "  * Přidejte si diakritiku do textu."
-      ]
+      ],
+
+      "01": {
+        "title": "Vlastní text",
+        "content": "Umožní zadat vlastní text ..."
+      },
+
+      "02": {
+        "title": "Doplnit ze sešitu",
+        "content": "Načte text z vašeho sešitu na reMarkable..."
+      }
 
     }
 
@@ -60,7 +70,17 @@
         "*** Description: ***",
         "-------------------",
         "  * Add diacritics to your text."
-      ]
+      ],
+
+      "01": {
+        "title": "Custom text",
+        "content": "Allows you to enter your own text ..."
+      },
+
+      "02": {
+        "title": "Import from notebook",
+        "content": "Loads text from your reMarkable notebook ..."
+      }
 
     }
 

@@ -95,9 +95,7 @@
 
     "menu": {
 
-      "01": {
-        "title": "┃*** Vítejte v Apple Shortcuts! ***"
-      },
+      "title": "┃*** Vítejte v Apple Shortcuts! ***",
 
       "99": {
         "title": "┃*** Nastavení! ***",

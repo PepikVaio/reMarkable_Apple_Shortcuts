@@ -26,15 +26,13 @@
 
     "menu": {
 
-      "01": {
-        "content": [
-          "┃Dokonalý text, bez starostí",
-          "",
-          "*** Popis: ***",
-          "-------------",
-          "  * Přidejte si diakritiku do textu."
-        ]
-      }
+      "content": [
+        "┃Dokonalý text, bez starostí",
+        "",
+        "*** Popis: ***",
+        "-------------",
+        "  * Přidejte si diakritiku do textu."
+      ]
 
     }
 
@@ -56,15 +54,13 @@
 
     "menu": {
 
-      "01": {
-        "content": [
-          "┃Perfect text, no worries",
-          "",
-          "*** Description: ***",
-          "-------------------",
-          "  * Add diacritics to your text."
-        ]
-      }
+      "content": [
+        "┃Perfect text, no worries",
+        "",
+        "*** Description: ***",
+        "-------------------",
+        "  * Add diacritics to your text."
+      ]
 
     }
 

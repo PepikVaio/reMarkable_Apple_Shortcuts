@@ -157,9 +157,7 @@
 
     "menu": {
 
-      "01": {
-        "title": "┃*** Welcome to Apple Shortcuts! ***"
-      },
+      "title": "┃*** Welcome to Apple Shortcuts! ***",
 
       "99": {
         "title": "┃*** Settings! ***",

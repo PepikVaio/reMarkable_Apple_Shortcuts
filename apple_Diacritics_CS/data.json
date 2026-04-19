@@ -23,7 +23,6 @@
       ]
     },
 
-
     "menu": {
 
       "content": [
@@ -35,13 +34,13 @@
       ],
 
       "01": {
-        "title": "Vlastní text",
-        "content": "Umožní zadat vlastní text ..."
+        "title": "Text ze schránky",
+        "content": "Načte aktuální obsah schránky ..."
       },
 
       "02": {
-        "title": "Doplnit ze sešitu",
-        "content": "Načte text z vašeho sešitu na reMarkable..."
+        "title": "Text ze sešitu",
+        "content": "Načte text z vašeho sešitu na reMarkable ..."
       }
 
     }
@@ -61,7 +60,6 @@
       ]
     },
 
-
     "menu": {
 
       "content": [
@@ -73,8 +71,8 @@
       ],
 
       "01": {
-        "title": "Custom text",
-        "content": "Allows you to enter your own text ..."
+        "title": "Clipboard text",
+        "content": "Retrieves the current content of the clipboard ..."
       },
 
       "02": {

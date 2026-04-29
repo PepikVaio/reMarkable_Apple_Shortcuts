@@ -9,53 +9,26 @@
     }
   },
 
-  "label": {
+  "cs": {
 
-    "name": {
-      "cs": "Název:",
-      "en": "Name:"
-    },
-
-    "version": {
-      "cs": "Verze:",
-      "en": "Version:"
-    },
-
-    "developer": {
-      "cs": "Vývojář:",
-      "en": "Developer:"
-    },
-
-    "description": {
-      "cs": [
-        "*** Popis: ***",
-        "------------------------"
-      ],
-      "en": [
-        "*** Description: ***",
-        "------------------------"
-      ]
-    }
-  },
-
-  "payment": {
-
-    "cs": [
+    "payment": [
       "*** Pokud se rozhodnete přispět! ***",
       "-------------------------------------",
       "Číslo účtu: 1358053048/3030",
       "Zpráva: [název zkratky]"
     ],
+    
+    "label": {
 
-    "en": [
-      "*** If you decide to contribute! ***",
-      "-------------------------------------",
-      "Account number: 1358053048/3030",
-      "Message: [shortcut name]"
-    ]
-  },
+      "name": "Název:",
+      "version": "Verze:",
+      "developer": "Vývojář:",
 
-  "cs": {
+      "description": [
+        "*** Popis: ***",
+        "------------------------"
+      ]
+    },
 
     "first_Launch": {
 
@@ -116,6 +89,25 @@
   },
 
   "en": {
+
+    "payment": [
+      "*** If you decide to contribute! ***",
+      "-------------------------------------",
+      "Account number: 1358053048/3030",
+      "Message: [shortcut name]"
+    ],
+    
+    "label": {
+
+      "name": "Name:",
+      "version": "Version:",
+      "developer": "Developer:",
+
+      "description": [
+        "*** Description: ***",
+        "------------------------"
+      ]
+    },
 
     "first_Launch": {
 

@@ -48,6 +48,8 @@
 
     "release": {
 
+      "news": "┃*** Novinky! ***",
+
       "title": [
         "┃*** Nová aktualizace! ***",
         "┃K dispozici je nová verze"
@@ -126,6 +128,8 @@
     },
 
     "release": {
+
+      "news": "┃*** News! ***",
 
       "title": [
         "┃*** New Update! ***",

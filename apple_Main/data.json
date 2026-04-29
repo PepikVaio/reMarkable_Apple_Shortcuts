@@ -48,7 +48,10 @@
 
     "release": {
 
-      "news": "┃*** Novinky! ***",
+      "news": [
+        "┃*** Novinky! ***",
+        "-----------------"
+      ],
 
       "title": [
         "┃*** Nová aktualizace! ***",
@@ -129,7 +132,10 @@
 
     "release": {
 
-      "news": "┃*** News! ***",
+      "news": [
+        "┃*** News! ***",
+        "---------------"
+      ],
 
       "title": [
         "┃*** New Update! ***",

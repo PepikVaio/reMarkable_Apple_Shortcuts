@@ -1,0 +1,44 @@
+Legenda:
+🎯 CHOOSE
+➡️ CONTINUE
+⚖️ COMPARE
+📦 DATA
+🔔 INFO
+📥 INPUT
+📂 LOAD
+🔄 LOOP
+🔗 MERGE
+💾 SAVE
+📧 SEND
+⚙️ SET
+🚀 START
+🛑 STOP
+♻️ UPDATE
+🌐 URL
+❓ WHEN
+
+|--- 🚀 Start SYS_get_Data!
+|
+|--- 🌐 Načíst slovník z URL (github_Main)
+|		|
+|		|--- 💾 Uložit slovník do složky (github_Developer_Name/github_Title_Main/data.json)
+|
+|--- 🌐 Načíst slovník z URL (github_Individual)
+|		|
+|		|--- 💾 Uložit slovník do složky (github_Developer_Name/config_Title/data.json)
+|
+|--- 📂 Načíst soubor ze složky "github_Developer_Name/config_Title/config.json"
+		|
+		|--- ❓ Pokud soubor neobsahuje žádnou hodnotu
+		|		|
+		|		|--- ♻️ Aktualizuje slovník ze "Vstup zkratky" (nepotřebné data smaže)
+		|				|
+		|				|--- 💾 Uložit slovník do složky (github_Developer_Name/config_Title/config.json)
+		|
+		|--- Jinak
+				|
+				|--- 📂 Načíst slovník ze "Souboru"
+						|
+						|--- ♻️ Aktualizuje slovník ze "Souboru" o data slovník "Vstup zkratky" (nepotřebné data smaže)
+								|
+								|--- 💾 Uložit slovník do složky (github_Developer_Name/config_Title/config.json)

@@ -1,0 +1,65 @@
+Legenda:
+🎯 CHOOSE
+➡️ CONTINUE
+⚖️ COMPARE
+📦 DATA
+🔔 INFO
+📥 INPUT
+📂 LOAD
+🔄 LOOP
+🔗 MERGE
+💾 SAVE
+📧 SEND
+⚙️ SET
+🚀 START
+🛑 STOP
+♻️ UPDATE
+🌐 URL
+❓ WHEN
+
+|--- 🚀 Start SYS_INIT!
+|
+|--- 📂 Načíst slovník ze "Vstup zkratky"
+|--- 📦 Slovník "dictionary_Github"
+|		|
+|		|--- 🔗 Spojit slovníky "Vstup zkratky" a "dictionary_Github" a vytvořit slovník "dictionary_Main"
+|				|
+|				|--- 📂 Načíst hodnotu z klíče "flag_Settings"
+|						|
+|						|--- ❓ Když hondota je "true"
+|						|		|
+|						|		|--- 📥 Vstup "dictionary_Main"
+|						|				|
+|						|				|--- 🚀 Spustit zkratku "SYS_Options"
+|						|
+|						|--- Jinak
+|								|
+|								|--- 📥 Vstup "dictionary_Main"
+|										|
+|										|--- 🚀 Spustit zkratku "SYS_check_Auto_Update"
+|												|
+|												|--- ❓ Když "Výsledek zkratky" není "false"
+|												|		|
+|												|		|--- ❓ Když Aktuální IP adresa obsahuje libovolnou hodnotu (Internet aktivní)
+|												|		|		|
+|												|		|		|--- 📥 Vstup "dictionary_Main"
+|												|		|				|
+|												|		|				|--- 🚀 Spustit zkratku "SYS_get_Data"
+|												|		|				|--- 🚀 Spustit zkratku "SYS_check_First_Launch"
+|												|		|				|--- 🚀 Spustit zkratku "SYS_update_Version"
+|												|		|						|
+|												|		|						|--- ⚙️ Nastavit proměnnou "set_Exit" na "Výsledek zkratky"
+|												|		|						|--- ➡️ Pokračovat "SYS_INIT"
+|												|		|
+|												|		|--- Jinak
+|												|				|
+|												|				|--- 🔔 Zobrazit oznámení "No internet!"
+|												|				|--- ⚙️ Nastavit proměnnou "set_Exit" na "1"
+|												|				|--- ➡️ Pokračovat "SYS_INIT"
+|												|
+|												|--- Jinak
+|														|
+|														|--- ⚙️ Nastavit proměnnou "set_Exit" na "0"
+|														|--- ➡️ Pokračovat "SYS_INIT"
+|
+|--- ⚙️ Nastavit "flag_Exit" ve slovníku "dictionary_Github" na hodnotu "set_Exit"

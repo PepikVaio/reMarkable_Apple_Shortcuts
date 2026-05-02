@@ -1,0 +1,63 @@
+Legenda:
+🎯 CHOOSE
+➡️ CONTINUE
+⚖️ COMPARE
+📦 DATA
+🔔 INFO
+📥 INPUT
+📂 LOAD
+🔄 LOOP
+🔗 MERGE
+💾 SAVE
+📧 SEND
+⚙️ SET
+🚀 START
+🛑 STOP
+♻️ UPDATE
+🌐 URL
+❓ WHEN
+
+|--- 🚀 Start SYS_update_Version!
+|
+|
+|--- 📂 Načíst soubor ze složky "github_Developer_Name/config_Title/data.json"
+|--- 📂 Načíst soubor ze složky "github_Developer_Name/config_Title/config.json"
+|		|
+|		|--- ⚙️ Nastavit proměnnou "version_Github" na "info.Version"
+|		|--- ⚙️ Nastavit proměnnou "version_iCloud" na "config_Version"
+|		|--- ⚙️ Nastavit proměnnou "set_Language" na "config_Language"
+|		|--- ⚙️ Nastavit proměnnou "version_Local" na "config_Version" ("Vstup zkratky")
+|				|
+|				|--- ❓ Když "version_Local" je menší než "version_Github"
+|				|		|
+|				|		|--- 📂 Načíst soubor ze složky "github_Developer_Name/github_Title_Main/data.json"
+|				|				|
+|				|				|--- 📂 Načíst hodnotu z klíče "set_Language"
+|				|						|
+|				|						|--- 🔔 Zobrazit upozornění (release content)
+|				|						|--- 🌐 Otevřit URL (github)
+|				|						|--- 1
+|				|						|--- ➡️ Pokračovat "SYS_update_Version"
+|				|		
+|				|--- Jinak
+|						|
+|						|--- ❓ Když "version_Local" je větší než "version_iCloud"
+|						|		|
+|						|		|--- 📂 Načíst soubor ze složky "github_Developer_Name/github_Title_Main/data.json"
+|						|		|--- 📂 Načíst soubor ze složky "github_Developer_Name/config_Title/data.json"
+|						|				|
+|						|				|--- 📂 Načíst hodnotu z klíče "config_Language" ve slovníku "github_Developer_Name/github_Title_Main/data.json"
+|						|				|--- 📂 Načíst hodnotu z klíče "config_Language" ve slovníku "github_Developer_Name/config_Title/data.json"
+|						|				|--- 🔔 Zobrazit upozornění (release installed)
+|						|				|--- 📂 Načíst soubor ze složky "github_Developer_Name/github_Title/config.json"
+|						|						|
+|						|						|--- ⚙️ Nastavit "config_Version" ve slovníku "Soubor" na "version_Local"
+|						|
+|						|--- Jinak
+|						|		|
+|						|		|--- Žádná akce
+|						|
+|						|--- 0
+|						|--- ➡️ Pokračovat "SYS_update_Version"
+|
+|--- Nastavit proměnnou "set_Update_Version na "Výsledek části Když"

@@ -1,0 +1,78 @@
+Legenda:
+🎯 CHOOSE
+➡️ CONTINUE
+⚖️ COMPARE
+📦 DATA
+🔔 INFO
+📥 INPUT
+📂 LOAD
+🔄 LOOP
+🔗 MERGE
+💾 SAVE
+📧 SEND
+⚙️ SET
+🚀 START
+🛑 STOP
+♻️ UPDATE
+🌐 URL
+❓ WHEN
+
+|--- 🚀 Start Main!
+|
+|--- 📦 Slovník "dictionary_Basic_iPhone"
+|--- 📂 Načíst hodnotu z klíče "flag_Reset" ve slovníku "Vstup zkratky"
+|		|
+|		|--- ❓ Když hondota není "false"
+|		|		|
+|		|		|--- 📥 Vstup "dictionary_Basic_iPhone"
+|		|				|
+|		|				|--- 🚀 Spustit zkratku "SYS_INIT"
+|		|						|
+|		|						|--- 📂 Načíst slovník ze vstupu "Výsledek zkratky"
+|		|								|
+|		|								|--- 📂 Načíst hodnotu z klíče "flag_Exit" ve slovníku "Slovník"
+|		|										|
+|		|										|--- ❓ Když hodnota je "1"
+|		|										|		|
+|		|										|		|--- 🛑 Zastavit tuto zkratku
+|		|										|
+|		|										|--- Jinak
+|		|												|
+|		|												|--- 📂 Načíst slovník ze vstupu "Výsledek zkratky"
+|		|												|--- ➡️ Pokračovat "Main"
+|		|
+|		|--- Jinak
+|				|
+|				|--- 📂 Načíst slovnik ze vstupu "Vstup zkratky"
+|				|--- ➡️ Pokračovat "Main"
+|
+|
+|--- 📂 Načíst soubor ze složky "github_Developer_Name/config_Title/config.json"
+|		|
+|		|--- 📂 Načíst hodnotu z klíče "config_Language"
+|		|--- ➡️ Pokračovat "Main"
+|
+|--- 📂 Načíst soubor ze složky "github_Developer_Name/config_Title/data.json"
+|--- 📂 Načíst soubor ze složky "github_Developer_Name/github_Title_Main/data.json"
+|		|
+|		|--- 📂 Načíst hodnotu z klíče "config_Language" ve slovníku "github_Developer_Name/config_Title/data.json"
+|		|--- 📂 Načíst hodnotu z klíče "config_Language" ve slovníku "github_Developer_Name/github_Title_Main/data.json"
+|		|--- ➡️ Pokračovat "Main"
+|
+|--- 🎯 Vybrat ze seznamu
+		|
+		|--- ❓ Když vybraná položka je "menu.99.title"
+		|		|
+		|		|--- ⚙️ Nastavit "settings_Title" ve slovníku "dictionary_Basic_iPhone" na hodnotu "Vybraná položka"
+		|				|
+		|				|--- ⚙️ Nastavit "flag_Settings" ve slovníku "Slovník" na hodnotu "true"
+		|						|
+		|						|--- 📥 Vstup "Slovník"
+		|								|
+		|								|--- 🚀 Spustit zkratku "SYS_INIT"
+		|
+		|
+		|
+		|--- Jinak
+				|
+				|--- Další akce (volitelne dle zkratky)

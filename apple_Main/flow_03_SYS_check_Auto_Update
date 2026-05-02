@@ -1,0 +1,34 @@
+Legenda:
+🎯 CHOOSE
+➡️ CONTINUE
+⚖️ COMPARE
+📦 DATA
+🔔 INFO
+📥 INPUT
+📂 LOAD
+🔄 LOOP
+🔗 MERGE
+💾 SAVE
+📧 SEND
+⚙️ SET
+🚀 START
+🛑 STOP
+♻️ UPDATE
+🌐 URL
+❓ WHEN
+
+|--- 🚀 Start SYS_check_Auto_Update!
+|
+|--- 📂 Načíst soubor ze složky "github_Developer_Name/config_Title/config.json"
+|		|
+|		|--- ❓ Když soubor obsahuje libovoulnou hodnotu
+|		|		|
+|		|		|--- ⚙️ Nastavit "set_Auto_Update" na "config_Auto_Update"
+|		|		|--- ➡️ Pokračovat "SYS_check_Auto_Update"
+|		|
+|		|--- Jinak
+|				|
+|				|--- Žádná akce
+|				|--- ➡️ Pokračovat "SYS_check_Auto_Update"
+|
+|--- ⚙️ Nastavit proměnnou "set_Auto_Update" na "Výsledek"

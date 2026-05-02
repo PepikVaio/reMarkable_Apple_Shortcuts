@@ -1,0 +1,40 @@
+Legenda:
+🎯 CHOOSE
+➡️ CONTINUE
+⚖️ COMPARE
+📦 DATA
+🔔 INFO
+📥 INPUT
+📂 LOAD
+🔄 LOOP
+🔗 MERGE
+💾 SAVE
+📧 SEND
+⚙️ SET
+🚀 START
+🛑 STOP
+♻️ UPDATE
+🌐 URL
+❓ WHEN
+
+|--- 🚀 Start SYS_check_First_Launch!
+|
+|--- 📂 Načíst soubor ze složky "github_Developer_Name/config_Title/config.json"
+		|
+		|--- ⚙️ Nastavit proměnnou "set_First_Launch" na "config_First_Launch"
+		|--- ⚙️ Nastavit proměnnou "set_Language" na "config_Launguage"
+				|
+				|--- ❓ Když "set_First_Launch" není "false"
+				|		|
+				|		|--- 📂 Načíst soubor ze složky "github_Developer_Name/github_Title_Main/data.json"
+				|				|
+				|				|--- 📂 Načíst hodnotu z klíče "set_Language"
+				|						|
+				|						|--- 🔔 Zobrazit upozornění (První spuštění)
+				|						|--- ⚙️ Nastavit "config_First_Launch" na "false"
+				|								|
+				|								|--- 💾 Uložit slovník do složky "github_Developer_Name/config_Title/config.json"
+				|
+				|--- Jinak
+						|
+						|--- Žádná akce

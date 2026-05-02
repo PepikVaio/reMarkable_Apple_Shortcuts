@@ -1,22 +1,3 @@
-Legenda:
-🎯 CHOOSE
-➡️ CONTINUE
-⚖️ COMPARE
-📦 DATA
-🔔 INFO
-📥 INPUT
-📂 LOAD
-🔄 LOOP
-🔗 MERGE
-💾 SAVE
-📧 SEND
-⚙️ SET
-🚀 START
-🛑 STOP
-♻️ UPDATE
-🌐 URL
-❓ WHEN
-
 |--- 🚀 Start SYS_get_Data!
 |
 |--- 🌐 Načíst slovník z URL (github_Main)

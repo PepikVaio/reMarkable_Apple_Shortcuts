@@ -1,22 +1,3 @@
-Legenda:
-🎯 CHOOSE
-➡️ CONTINUE
-⚖️ COMPARE
-📦 DATA
-🔔 INFO
-📥 INPUT
-📂 LOAD
-🔄 LOOP
-🔗 MERGE
-💾 SAVE
-📧 SEND
-⚙️ SET
-🚀 START
-🛑 STOP
-♻️ UPDATE
-🌐 URL
-❓ WHEN
-
 |--- 🚀 Start SYS_check_Auto_Update!
 |
 |--- 📂 Načíst soubor ze složky "github_Developer_Name/config_Title/config.json"

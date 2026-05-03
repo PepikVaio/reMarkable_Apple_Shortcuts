@@ -14,12 +14,12 @@ Use theese shortcuts for work with reMarkable.
 
 ### Requirements
 * iPhone
-* [SYS_INIT](https://www.icloud.com/shortcuts/4736e9829ac24d2a84e4c95549ad0105)
-* [SYS_check_Auto_Update](https://www.icloud.com/shortcuts/d6461a8210874f20b3cff969f49d24cb)
-* [SYS_get_Data](https://www.icloud.com/shortcuts/472a67f9dc7b4ef084ac01794419252b)
-* [SYS_check_First_Launch](https://www.icloud.com/shortcuts/676d43731bed4fa4b421e989a910a490)
-* [SYS_update_Version](https://www.icloud.com/shortcuts/6dc4fab36d954f6987522cc74b1c9fcb)
-* [SYS_Options](https://www.icloud.com/shortcuts/0e20d0f460c5418d968f70a6b57f7f5b)
+* [SYS_INIT](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Main)
+* [SYS_check_Auto_Update](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Main)
+* [SYS_get_Data](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Main)
+* [SYS_check_First_Launch](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Main)
+* [SYS_update_Version](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Main)
+* [SYS_Options](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Main)
 
 
 ### Installation

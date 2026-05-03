@@ -5,7 +5,7 @@
 
 
 # Diacritics CS!
-Adding diacritics to the text.
+Adding diacritics the text.
 
 ## Description
 The shortcut is used to add diacritics to the text that is stored in the clipboard.

@@ -4,48 +4,31 @@
 
 
 
-# Diacritics CS!
-Adding diacritics to the text.
+# Apple shortcuts
+A better workflow with your reMarkable tablet.
 
 ## Description
-The shortcut is used to add diacritics to the text that is stored in the clipboard.
-* As soon as the diacritics are completed, the new text is saved to the clipboard. 
-* tested - iPhone 12 mini
+Use theese shortcuts for work with reMarkable.
+* tested - iPhone Air
 
-## Getting Started
-
-### Addictions
+### Requirements
 * iPhone
-* [ChatGPT application](https://apps.apple.com/cz/app/chatgpt/id6448311069?l=cs)
-
-
-### Downloads
-[![download](https://img.shields.io/badge/download-latest_release-slategray)](https://www.icloud.com/shortcuts/86b3cb8acc7b42e5832e6c30c3e6f715)
-
+* [SYS_INIT](https://www.icloud.com/shortcuts/4736e9829ac24d2a84e4c95549ad0105)
+* [SYS_check_Auto_Update](https://www.icloud.com/shortcuts/d6461a8210874f20b3cff969f49d24cb)
+* [SYS_get_Data](https://www.icloud.com/shortcuts/472a67f9dc7b4ef084ac01794419252b)
+* [SYS_check_First_Launch](https://www.icloud.com/shortcuts/676d43731bed4fa4b421e989a910a490)
+* [SYS_update_Version](https://www.icloud.com/shortcuts/6dc4fab36d954f6987522cc74b1c9fcb)
+* [SYS_Options](https://www.icloud.com/shortcuts/d5158ad160fd4ca3a3448e659e3b1edc)
 
 ### Installation
 Just open the link on your iPhone.
 
 ### Usage
-Ideally, set a shortcut for tapping the back of the iPhone.
-
-[![YouTube](https://img.shields.io/badge/video-YouTube-red)](https://youtu.be/11kzIVPvCu0?si=rPG1BSNr1YD6hQeM)
+* [apple_Main](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Main)
+* [apple_Diacritics_CS](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Diacritics_CS)
 
 ## Help
 Create issues if you find a problem.
-
-## Version history
-2.0
-* English language added.
-* Added option to delete clipboard.
-* Added check for new updates.
-* Moving the texts to the Github server and the ability to correct errors in the text on the fly.
-* Saving configuration files to iCloud Drive.
-* Changed the notification for inserting edited text.
-
-1.0
-* first release
-
 
 ## Authors
 Wajsar Josef

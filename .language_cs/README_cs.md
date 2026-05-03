@@ -27,8 +27,9 @@ Stačí otevřít odkaz na vašem iPhonu.
 
 
 ### Použití
-* [apple_Main](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Main) - Hlavní zkratky (vyžadované pro všechny ostatní).
 * [apple_Diacritics_CS](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Diacritics_CS) - Přidání diakritiky do textu.
+
+* [apple_Main](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Main) - Hlavní zkratky (vyžadované pro všechny ostatní).
 
 
 ## Pomoc

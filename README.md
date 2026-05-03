@@ -27,8 +27,9 @@ Just open the link on your iPhone.
 
 
 ### Usage
-* [apple_Main](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Main) - Main shortcuts (required for all others).
 * [apple_Diacritics_CS](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Diacritics_CS) - Adding diacritics to text.
+
+* [apple_Main](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Main) - Main shortcuts (required for all others).
 
 
 ## Help

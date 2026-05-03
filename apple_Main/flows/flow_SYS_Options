@@ -1,88 +1,103 @@
 |--- 🚀 Start SYS_Options!
 |
 |--- 📂 Načíst soubor ze složky "github_Developer_Name/config_Title/config.json"
-|       |
-|       |--- 📂 Načíst hodnotu z klíče "config_Language" ve slovníku "github_Developer_Name/config_Title/config.json"
-|       |--- 📂 Načíst hodnotu z klíče "Hodnota ze slovníku" ve slovníku "github_Developer_Name/config_Title/config.json"
-|       |--- ➡️ Pokračovat "SYS_Options"
+|	|
+|	|--- 📂 Načíst hodnotu z klíče "config_Language" ve slovníku "github_Developer_Name/config_Title/config.json"
+|	|--- 📂 Načíst hodnotu z klíče "Hodnota ze slovníku" ve slovníku "github_Developer_Name/config_Title/config.json"
+|	|--- ➡️ Pokračovat "SYS_Options"
 |
 |--- 📂 Načíst soubor ze složky "github_Developer_Name/config_Title/data.json"
 |--- 📂 Načíst soubor ze složky "github_Developer_Name/github_Title_Main/data.json"
-|       |
-|       |--- 📂 Načíst hodnotu z klíče "Hodnota ze slovníku" ve slovníku "github_Developer_Name/config_Title/data.json"
-|       |--- 📂 Načíst hodnotu z klíče "Hodnota ze slovníku" ve slovníku "github_Developer_Name/github_Title_Main/data.json"
-|       |--- ➡️ Pokračovat "SYS_Options"
+|	|
+|	|--- 📂 Načíst hodnotu z klíče "Hodnota ze slovníku" ve slovníku "github_Developer_Name/config_Title/data.json"
+|	|--- 📂 Načíst hodnotu z klíče "Hodnota ze slovníku" ve slovníku "github_Developer_Name/github_Title_Main/data.json"
+|	|--- ➡️ Pokračovat "SYS_Options"
 |
 |--- 🎯 Vybrat z nabídky
-|       |
-|       |--- Hodnota ze slovníku (menu.99.submenu_About)
-|       |       |
-|               |--- 🔔 Zobrazit upozornění (about shortcut)
-|       |       |--- ➡️ Pokračovat "SYS_Options"
-|       |
-|       |--- Hodnota ze slovníku (menu.99.submenu_Feedback)
-|       |       |
-|       |       |--- 📂 Načíst model zařízení
-|       |       |--- 📂 Načíst verzi systému
-|       |               |
-|       |               |--- 📧 Poslat email
-|       |               |--- 🔔 Zobrazit upozornění (thank you feedback)
-|       |               |--- ➡️ Pokračovat "SYS_Options"
-|       |
-|       |--- Hodnota ze slovníku (menu.99.submenu_Language)
-|       |       |
-|       |       |--- ❓ Když "Hodnota ze slovníku" je "en"
-|       |       |       |
-|       |       |       |--- ⚙️ Nastavit "config_Language" ve slovníku "Soubor" na "cs"
-|       |       |
-|       |       |--- Jinak
-|       |       |       |
-|       |       |       |--- ⚙️ Nastavit "config_Language" ve slovníku "Soubor" na "en"
-|       |       |
-|       |       |--- ⚙️ Nastavit "config_First_Launch" ve slovníku "Výsledek části Když" na "true"
-|       |               |
-|       |               |--- 💾 Uložit slovník do složky "github_Developer_Name/config_Title/config.json"
-|       |               |--- 📥 Vstup "Vstup zkratky"
-|       |               |       |
-|       |               |       |--- 🚀 "SYS_check_First_Launch"
-|       |               |
-|       |               |--- ➡️ Pokračovat "SYS_Options"
-|       |
-|       |--- Hodnota ze slovníku (menu.99.submenu_Language)
-|       |       |
-|       |       |--- ❓ Když hodnota ze slovníku "config_Auto_Update" je "true"
-|       |       |       |
-|       |       |       |--- ⚙️ Nastavit "config_Auto_Update" ve slovníku "Soubor" na "false"
-|       |       |       |       |
-|       |       |       |       |--- 💾 Uložit slovník do složky "github_Developer_Name/config_Title/config.json"
-|       |       |
-|       |       |--- Jinak
-|       |       |       |
-|       |       |       |--- ⚙️ Nastavit "config_Auto_Update" ve slovníku "Soubor" na "true"
-|       |       |               |
-|       |       |               |--- 💾 Uložit slovník do složky "github_Developer_Name/config_Title/config.json"
-|       |       |
-|       |       |--- ➡️ Pokračovat "SYS_Options"
-|       |
-|       |--- Hodnota ze slovníku (menu.99.submenu_Reset)
-|       |       |
-|       |       |--- ♻️ Aktualizuje slovník ze "Vstup zkratky" (nepotřebné data smaže)
-|       |               |
-|       |               |--- 💾 Uložit slovník do složky "github_Developer_Name/config_Title/config.json"
-|       |               |--- 🚀 "Main"
-|       |
-|       |--- Hodnota ze slovníku (Další nastavení)
-|       |       |
-|       |       |---
-|       |
-|       |--- Hodnota ze slovníku (menu.99.submenu_Back)
-|               |
-|               |--- ➡️ Pokračovat "SYS_Options"
-|       
+|	|
+|	|--- Hodnota ze slovníku (menu.99.submenu_About)
+|	|	|
+|	|	|--- 🔔 Zobrazit upozornění (about shortcut)
+|	|	|--- ➡️ Pokračovat "SYS_Options"
+|	|
+|	|--- Hodnota ze slovníku (menu.99.submenu_Feedback)
+|	|	|
+|	|	|--- 📂 Načíst model zařízení
+|	|	|--- 📂 Načíst verzi systému
+|	|		|
+|	|		|--- 📧 Poslat email
+|	|		|--- 🔔 Zobrazit upozornění (thank you feedback)
+|	|		|--- ➡️ Pokračovat "SYS_Options"
+|	|
+|	|--- Hodnota ze slovníku (menu.99.submenu_Language)
+|	|	|
+|	|	|--- ❓ Když "Hodnota ze slovníku" je "en"
+|	|	|	|
+|	|	|	|--- ⚙️ Nastavit "config_Language" ve slovníku "Soubor" na "cs"
+|	|	|
+|	|	|--- Jinak
+|	|	|	|
+|	|	|	|--- ⚙️ Nastavit "config_Language" ve slovníku "Soubor" na "en"
+|	|	|
+|	|	|--- ⚙️ Nastavit "config_First_Launch" ve slovníku "Výsledek části Když" na "true"
+|	|		|
+|	|		|--- 💾 Uložit slovník do složky "github_Developer_Name/config_Title/config.json"
+|	|		|--- 📥 Vstup "Vstup zkratky"
+|	|		|	|
+|	|		|	|--- 🚀 Spustit zkratku "SYS_check_First_Launch"
+|	|		|	|
+|	|		|--- ➡️ Pokračovat "SYS_Options"
+|	|
+|	|--- Hodnota ze slovníku (menu.99.submenu_Language)
+|	|	|
+|	|	|--- ❓ Když hodnota ze slovníku "config_Auto_Update" je "true"
+|	|	|	|
+|	|	|	|--- ⚙️ Nastavit "config_Auto_Update" ve slovníku "Soubor" na "false"
+|	|	|	|	|
+|	|	|	|	|--- 💾 Uložit slovník do složky "github_Developer_Name/config_Title/config.json"
+|	|	|
+|	|	|--- Jinak
+|	|	|	|
+|	|	|	|--- ⚙️ Nastavit "config_Auto_Update" ve slovníku "Soubor" na "true"
+|	|	|		|
+|	|	|		|--- 💾 Uložit slovník do složky "github_Developer_Name/config_Title/config.json"
+|	|	|
+|	|	|--- ➡️ Pokračovat "SYS_Options"
+|	|
+|	|--- Hodnota ze slovníku (menu.99.submenu_Reset)
+|	|	|
+|	|	|--- ♻️ Aktualizuje slovník ze "Vstup zkratky" (nepotřebné data smaže)
+|	|		|
+|	|		|--- 💾 Uložit slovník do složky "github_Developer_Name/config_Title/config.json"
+|	|		|--- 🚀 Spustit zkratku "Main"
+|	|
+|	|--- Hodnota ze slovníku (menu.99.submenu_Other)
+|	|	|
+|	|	|--- 📂 Načíst zkratky ze složky "Všechny zkratky"
+|	|		|
+|	|		|--- 🔄 Opakovat s každou položkou vstupu
+|	|		|	|
+|	|		|	|--- ❓ Když "Položka opakování" je "config_Title" & "_Options"
+|	|		|	|	|
+|	|		|	|	|--- 🚀 Spustit zkratku "config_Title" & "_Options"
+|	|		|	|
+|	|		|	|--- Jinak
+|	|		|		|
+|	|		|		|--- Žádná akce
+|	|		|
+|	|		|--- 🔔 Zobrazit upozornění (no more options)
+|	|		|--- 📥 Vstup "Vstup zkratky"
+|	|			|
+|	|			|--- 🚀 Spustit zkratku "SYS_Options"
+|	|
+|	|--- Hodnota ze slovníku (menu.99.submenu_Back)
+|		|
+|		|--- ➡️ Pokračovat "SYS_Options"
+|
 |--- ⚙️ Nastavit "flag_Reset" na "false"
-        |
-        |--- 💾 Uložit slovník
-            |
-            |--- 📥 Vstup "dictionary_Basic_iPhone"
-                    |
-                    |--- 🚀 "Main"
+|
+|--- 💾 Uložit slovník
+|	|
+|	|--- 📥 Vstup "dictionary_Basic_iPhone"
+|		|
+|		|--- 🚀 Spustit zkratku "Main"

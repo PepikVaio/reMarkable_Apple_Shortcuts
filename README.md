@@ -2,12 +2,15 @@
 [![cs](https://img.shields.io/badge/lang-cs-springgreen.svg)](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/blob/main/.language_cs/README_cs.md)
 [![supported: iPhone](https://img.shields.io/badge/iPhone-supported-blueviolet)](https://www.apple.com/cz/iphone/)
 
+
 # Apple shortcuts
 A better workflow with your reMarkable tablet.
+
 
 ## Description
 Use theese shortcuts for work with reMarkable.
 * tested - iPhone Air
+
 
 ### Requirements
 * iPhone
@@ -18,19 +21,24 @@ Use theese shortcuts for work with reMarkable.
 * [SYS_update_Version](https://www.icloud.com/shortcuts/6dc4fab36d954f6987522cc74b1c9fcb)
 * [SYS_Options](https://www.icloud.com/shortcuts/d5158ad160fd4ca3a3448e659e3b1edc)
 
+
 ### Installation
 Just open the link on your iPhone.
+
 
 ### Usage
 * [apple_Main](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Main) - Main shortcuts (required for all others).
 * [apple_Diacritics_CS](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Diacritics_CS) - Adding diacritics to text.
 
+
 ## Help
 Create issues if you find a problem.
+
 
 ## Authors
 Wajsar Josef
 * Wajsar.Josef@hotmail.com
+
 
 ## Acknowledgements
 Inspiration, code snippets, etc...

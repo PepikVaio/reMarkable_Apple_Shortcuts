@@ -8,4 +8,3 @@ These shortcuts serve as a basic framework for working with the main shortcut.
 * Checks for first launch.
 * Checks for updates.
 * Adds main settings.
-

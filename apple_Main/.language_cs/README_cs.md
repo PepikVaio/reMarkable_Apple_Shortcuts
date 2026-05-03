@@ -2,7 +2,7 @@
 [![cs](https://img.shields.io/badge/lang-cs-springgreen.svg)](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/blob/main/apple_Main/.language_cs/README_cs.md)
 
 
-# Hlavní!
+# Main!
 Hlavní zkratky (vyžadované pro všechny ostatní).
 
 

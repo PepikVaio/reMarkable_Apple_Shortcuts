@@ -90,7 +90,8 @@
           "Děkuji za zaslání emailu.",
           "Pokusím se odpovědět co nejdříve.",
           ""
-        ]
+        ],
+        "other_Info": "Lituji, žádné další nastavení není!"
       }
     }
   },
@@ -176,7 +177,8 @@
           "Thank you for sending email.",
           "I will try to reply as soon as possible.",
           ""
-        ]
+        ],
+        "other_Info": "Sorry, there are no other settings!"
       }
     }
   },

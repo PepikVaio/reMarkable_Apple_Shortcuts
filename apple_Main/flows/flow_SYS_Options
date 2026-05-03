@@ -29,7 +29,7 @@
 |       |               |--- 🔔 Zobrazit upozornění (thank you feedback)
 |       |               |--- ➡️ Pokračovat "SYS_Options"
 |       |
-|       |--- Hodnota ze slovníku (menu.99.submenu_Switch)
+|       |--- Hodnota ze slovníku (menu.99.submenu_Language)
 |       |       |
 |       |       |--- ❓ Když "Hodnota ze slovníku" je "en"
 |       |       |       |
@@ -42,7 +42,27 @@
 |       |       |--- ⚙️ Nastavit "config_First_Launch" ve slovníku "Výsledek části Když" na "true"
 |       |               |
 |       |               |--- 💾 Uložit slovník do složky "github_Developer_Name/config_Title/config.json"
+|       |               |--- 📥 Vstup "Vstup zkratky"
+|       |               |       |
+|       |               |       |--- 🚀 "SYS_check_First_Launch"
+|       |               |
 |       |               |--- ➡️ Pokračovat "SYS_Options"
+|       |
+|       |--- Hodnota ze slovníku (menu.99.submenu_Language)
+|       |       |
+|       |       |--- ❓ Když hodnota ze slovníku "config_Auto_Update" je "true"
+|       |       |       |
+|       |       |       |--- ⚙️ Nastavit "config_Auto_Update" ve slovníku "Soubor" na "false"
+|       |       |       |       |
+|       |       |       |       |--- 💾 Uložit slovník do složky "github_Developer_Name/config_Title/config.json"
+|       |       |
+|       |       |--- Jinak
+|       |       |       |
+|       |       |       |--- ⚙️ Nastavit "config_Auto_Update" ve slovníku "Soubor" na "true"
+|       |       |               |
+|       |       |               |--- 💾 Uložit slovník do složky "github_Developer_Name/config_Title/config.json"
+|       |       |
+|       |       |--- ➡️ Pokračovat "SYS_Options"
 |       |
 |       |--- Hodnota ze slovníku (menu.99.submenu_Reset)
 |       |       |

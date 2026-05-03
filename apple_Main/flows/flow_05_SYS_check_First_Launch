@@ -5,7 +5,7 @@
 		|--- ⚙️ Nastavit proměnnou "set_First_Launch" na "config_First_Launch"
 		|--- ⚙️ Nastavit proměnnou "set_Language" na "config_Launguage"
 				|
-				|--- ❓ Když "set_First_Launch" není "false"
+				|--- ❓ Když "set_First_Launch" je "true"
 				|		|
 				|		|--- 📂 Načíst soubor ze složky "github_Developer_Name/github_Title_Main/data.json"
 				|				|

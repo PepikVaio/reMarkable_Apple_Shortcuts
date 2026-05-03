@@ -13,10 +13,15 @@ These shortcuts serve as a basic framework for working with the main shortcut.
 * Checks for updates.
 * Adds main settings.
 
+### Download
+[![SYS_INIT](https://img.shields.io/badge/download-SYS_INIT-red)](https://www.icloud.com/shortcuts/4736e9829ac24d2a84e4c95549ad0105)
 
-* [SYS_INIT](https://www.icloud.com/shortcuts/4736e9829ac24d2a84e4c95549ad0105)
-* [SYS_check_Auto_Update](https://www.icloud.com/shortcuts/d6461a8210874f20b3cff969f49d24cb)
-* [SYS_get_Data](https://www.icloud.com/shortcuts/472a67f9dc7b4ef084ac01794419252b)
-* [SYS_check_First_Launch](https://www.icloud.com/shortcuts/676d43731bed4fa4b421e989a910a490)
-* [SYS_update_Version](https://www.icloud.com/shortcuts/6dc4fab36d954f6987522cc74b1c9fcb)
-* [SYS_Options](https://www.icloud.com/shortcuts/d5158ad160fd4ca3a3448e659e3b1edc)
+[![SYS_check_Auto_Update](https://img.shields.io/badge/download-SYS_check_Auto_Update-orange)](https://www.icloud.com/shortcuts/d6461a8210874f20b3cff969f49d24cb)
+
+[![SYS_get_Data](https://img.shields.io/badge/download-SYS_get_Data-orange)](https://www.icloud.com/shortcuts/472a67f9dc7b4ef084ac01794419252b)
+
+[![SYS_check_First_Launch](https://img.shields.io/badge/download-SYS_check_First_Launch-orange)](https://www.icloud.com/shortcuts/676d43731bed4fa4b421e989a910a490)
+
+[![SYS_update_Version](https://img.shields.io/badge/download-SYS_update_Version-orange)](https://www.icloud.com/shortcuts/6dc4fab36d954f6987522cc74b1c9fcb)
+
+[![SYS_Options](https://img.shields.io/badge/download-SYS_Options-yellow)](https://www.icloud.com/shortcuts/0e20d0f460c5418d968f70a6b57f7f5b)

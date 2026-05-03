@@ -3,54 +3,44 @@
 [![supported: iPhone](https://img.shields.io/badge/iPhone-supported-blueviolet)](https://www.apple.com/cz/iphone/)
 
 
+# Apple zkratky
+Lepší workflow s vaším tabletem reMarkable.
 
-# Diacritics CS!
-Doplnění diakritiky do textu.
 
 ## Popis
-Zkratka slouží k doplnění diakritiky do textu, který je uložený ve schránce.
-* Jakmile se diakritika doplní, uloží se nový text do schránky. 
-* testováno - iPhone 12 mini
+Použijte tyto zkratky pro práci s reMarkable.
+* testováno - iPhone Air
 
-## Začínáme
 
-### Závislosti
+### Požadavky
 * iPhone
-* [aplikace ChatGPT](https://apps.apple.com/cz/app/chatgpt/id6448311069?l=cs)
+* [SYS_INIT](https://www.icloud.com/shortcuts/4736e9829ac24d2a84e4c95549ad0105)
+* [SYS_check_Auto_Update](https://www.icloud.com/shortcuts/d6461a8210874f20b3cff969f49d24cb)
+* [SYS_get_Data](https://www.icloud.com/shortcuts/472a67f9dc7b4ef084ac01794419252b)
+* [SYS_check_First_Launch](https://www.icloud.com/shortcuts/676d43731bed4fa4b421e989a910a490)
+* [SYS_update_Version](https://www.icloud.com/shortcuts/6dc4fab36d954f6987522cc74b1c9fcb)
+* [SYS_Options](https://www.icloud.com/shortcuts/d5158ad160fd4ca3a3448e659e3b1edc)
 
-
-### Ke stažení
-[![download](https://img.shields.io/badge/download-latest_release-slategray)](https://www.icloud.com/shortcuts/86b3cb8acc7b42e5832e6c30c3e6f715)
 
 ### Instalace
-Stačí otevřít odkaz v iPhone.
+Stačí otevřít odkaz na vašem iPhonu.
 
-### Používání
-Ideálně si nastavit zkratku na poklepání zad iPhone.
+
+### Použití
+* [apple_Main](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Main) - Hlavní zkratky (vyžadované pro všechny ostatní).
+* [apple_Diacritics_CS](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Diacritics_CS) - Přidání diakritiky do textu.
 
 
 ## Pomoc
 Vytvořte problémy, pokud najdete problém.
 
-[![YouTube](https://img.shields.io/badge/video-YouTube-red)](https://youtu.be/11kzIVPvCu0?si=rPG1BSNr1YD6hQeM)
-
-## Historie verzí
-2.0
-* Přidán anglický jazyk.
-* Přidaná možnost smazat schránku.
-* Přidaná kontrola nových aktualizací.
-* Přesun textů na Github server a možnosti opravovat chyby v textu za běhu.
-* Ukládání konfiguračních souborů na iCloud Drive.
-* Změna oznámení o vložení upraveného textu.
-
-1.0
-* první vydání
 
 ## Autoři
 Wajsar Josef
 * Wajsar.Josef@hotmail.com
 
+
 ## Poděkování
 Inspirace, úryvky kódu atd...
-* [readme - vícejazyčné](https://github.com/jonatasemidio/multilanguage-readme-pattern)
-* [readme - ikony](https://shields.io/)
+* [readme - multi language](https://github.com/jonatasemidio/multilanguage-readme-pattern)
+* [readme - icons](https://shields.io/)

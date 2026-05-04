@@ -9,6 +9,7 @@ A better workflow with your reMarkable tablet.
 
 ## Description
 Use theese shortcuts for work with reMarkable.
+* tested - iPhone 12 Mini
 * tested - iPhone Air
 
 

@@ -8,9 +8,8 @@
 Doplnění diakritiky do textu.
 
 ## Popis
-Zkratka slouží k doplnění diakritiky do textu, který je uložený ve schránce.
-* Jakmile se diakritika doplní, uloží se nový text do schránky. 
-* testováno - iPhone 12 mini
+Zkratka slouží k doplnění diakritiky do textu, který jste zapsali pomocí reMakrable klávesnice.
+* Text s diakritikou se uloží do schránky. 
 
 ## Začínáme
 

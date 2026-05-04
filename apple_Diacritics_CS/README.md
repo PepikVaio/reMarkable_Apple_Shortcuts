@@ -16,7 +16,7 @@ The shortcut is used to add diacritics to the text that is stored in the clipboa
 
 ### Addictions
 * iPhone
-* [ChatGPT application](https://apps.apple.com/cz/app/chatgpt/id6448311069?l=cs)
+* [AI module](https://apps.apple.com/cz/app/claude-by-anthropic/id6473753684?l=cs)
 
 
 ### Downloads

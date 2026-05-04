@@ -15,7 +15,7 @@ Zkratka slouží k doplnění diakritiky do textu, který jste zapsali pomocí r
 
 ### Závislosti
 * iPhone
-* [aplikace ChatGPT](https://apps.apple.com/cz/app/chatgpt/id6448311069?l=cs)
+* [AI module](https://apps.apple.com/cz/app/claude-by-anthropic/id6473753684?l=cs)
 
 
 ### Ke stažení

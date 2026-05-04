@@ -14,13 +14,7 @@ Use theese shortcuts for work with reMarkable.
 
 ### Requirements
 * iPhone
-* [SYS_INIT](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Main)
-* [SYS_check_Auto_Update](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Main)
-* [SYS_get_Data](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Main)
-* [SYS_check_First_Launch](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Main)
-* [SYS_update_Version](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Main)
-* [SYS_Options](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Main)
-
+* [apple_Main](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Main)
 
 ### Installation
 Just open the link on your iPhone.

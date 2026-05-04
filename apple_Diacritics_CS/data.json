@@ -35,7 +35,8 @@
 
       "01": {
         "title": "Text ze schránky",
-        "content": "Načte aktuální obsah schránky ..."
+        "content": "Načte aktuální obsah schránky ...",
+        "message": "Zdá se, že schránka je prázdná:"
       },
 
       "02": {
@@ -79,7 +80,8 @@
 
       "01": {
         "title": "Clipboard text",
-        "content": "Retrieves the current content of the clipboard ..."
+        "content": "Retrieves the current content of the clipboard ...",
+        "message": "It seems that the clipboard is empty:"
       },
 
       "02": {

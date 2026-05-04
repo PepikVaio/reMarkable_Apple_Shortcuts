@@ -9,7 +9,7 @@ Lepší workflow s vaším tabletem reMarkable.
 
 ## Popis
 Použijte tyto zkratky pro práci s reMarkable.
-* tested - iPhone 12 Mini
+* testováno - iPhone 12 Mini
 * testováno - iPhone Air
 
 

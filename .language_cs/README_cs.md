@@ -4,40 +4,37 @@
 
 
 # Apple zkratky
-Lepší workflow s vaším tabletem reMarkable.
-
-
-## Popis
-Použijte tyto zkratky pro práci s reMarkable.
+> Lepší workflow s vaším tabletem reMarkable.
+> <br>
+> Použijte tyto zkratky pro práci s reMarkable.
 * testováno - iPhone 12 Mini
 * testováno - iPhone Air
 
+<br>
 
-### Požadavky
-* iPhone
-* [apple_Main](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Main)
+## Instalace
+Stačí otevřít odkaz na svém iPhonu.
 
-
-### Instalace
-Stačí otevřít odkaz na vašem iPhonu.
-
+> [!IMPORTANT]
+> Před instalací se ujistěte, že splňujete všechny požadavky:
+> - iPhone
+> - [apple_Main](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Main)
 
 ### Použití
-* [apple_Diacritics_CS](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Diacritics_CS) - Přidání diakritiky do textu.
+- [apple_Diacritics_CS](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Diacritics_CS) - Přidání diakritiky do textu.
+- [apple_Main](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Main) - Hlavní zkratky (vyžadované pro všechny ostatní).
 
-* [apple_Main](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Main) - Hlavní zkratky (vyžadované pro všechny ostatní).
-
+<br>
 
 ## Pomoc
 Vytvořte problémy, pokud najdete problém.
 
 
-## Autoři
-Wajsar Josef
-* Wajsar.Josef@hotmail.com
-
-
-## Poděkování
-Inspirace, úryvky kódu atd...
-* [readme - multi language](https://github.com/jonatasemidio/multilanguage-readme-pattern)
-* [readme - icons](https://shields.io/)
+> [!NOTE]
+> ### Autoři
+> - **Jméno:** Wajsar Josef  
+> - **Email:** [Wajsar.Josef@hotmail.com](mailto:Wajsar.Josef@hotmail.com)
+> ### Poděkování
+> Inspirace, úryvky kódu atd...
+> - [readme - multi language](https://github.com/jonatasemidio/multilanguage-readme-pattern)
+> - [readme - icons](https://shields.io/)

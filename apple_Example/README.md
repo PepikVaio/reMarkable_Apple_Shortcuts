@@ -3,7 +3,6 @@
 [![supported: iPhone](https://img.shields.io/badge/iPhone-supported-blueviolet)](https://www.apple.com/cz/iphone/)
 
 
-
 # Example!
 > - Example shortcut for demonstration purposes.
 > - This shortcut serves only as a template for creating your own shortcut.

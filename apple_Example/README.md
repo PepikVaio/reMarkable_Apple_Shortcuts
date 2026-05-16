@@ -52,9 +52,9 @@ img2b64 path_to_file.png
 - Open it — it will install automatically
 
 ```
-Right-click on an image
-Select - Quick Actions
-Click - Copy image as Base64
+Right-click on the image  
+Select "Quick Actions"  
+Click "Copy image as Base64"
 ```
 
 ![image_02](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/blob/main/apple_Example/.images/Copy_image_as_Base64.png)

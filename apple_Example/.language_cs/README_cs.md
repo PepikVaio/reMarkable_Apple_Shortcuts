@@ -53,3 +53,9 @@ Vybrat - Rychlé akce
 Kliknout - Copy image as Base64
 ```
 
+
+> [!IMPORTANT]
+> **System files require careful handling:**
+> - Paper Pro family root filesystems are read-only; `/etc` uses an overlay that resets on reboot
+> - Files created by scripts aren't tracked by apk, clean them up in `pre-deinstall`
+> - `vellum reenable` wraps `post-os-upgrade` with `mount-rw`/`mount-restore` automatically, but other hooks must call these themselves

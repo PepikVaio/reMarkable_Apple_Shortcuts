@@ -7,14 +7,8 @@
 > - Example shortcut for demonstration purposes.
 > - This shortcut serves only as a template for creating your own shortcut.
 
-<br>
-
-### Dependencies
-- iPhone
-
-### Installation
+### Download
 [![download](https://img.shields.io/badge/download-latest_release-slategray)]()
-- Just open the link on your iPhone.
 
 <br>
 

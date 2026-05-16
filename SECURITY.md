@@ -2,7 +2,7 @@
 [![cs](https://img.shields.io/badge/lang-cs-springgreen.svg)](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/blob/main/.language_cs/SECURITY.cs.md)
 
 
-# Security Policy and Procedures
+## Security Policy and Procedures
 
 ### Liability and Disclaimer
 

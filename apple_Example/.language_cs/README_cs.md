@@ -44,7 +44,7 @@ img2b64 cesta_k_souboru.png
 ![image_01](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/blob/main/apple_Example/.images/img2b64.png)
 
 ### Jako rychlé menu pro Mac OS
-[![download](https://img.shields.io/badge/download-Copy_image_as_Base64-red)](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Example/.tools/Copy%20image%20as%20Base64.workflow/Contents)
+[![download](https://img.shields.io/badge/download-Copy_image_as_Base64-red)](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/blob/main/apple_Example/.tools/Copy%20image%20as%20Base64.zip)
 
 - Stáhnout soubor
 - Otevřít soubor - sám se nainstaluje

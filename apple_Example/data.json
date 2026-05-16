@@ -39,9 +39,9 @@
         "content": "Ukázka - Content 02 ..."
       },
 
-      "99": {
-        "moremenu_Example_01": "Ukázka - Dalšího menu 01",
-        "moremenu_Example_02": "Ukázka - Dalšího menu 02"
+      "submenu_Individual": {
+        "submenu_Example_01": "Ukázka - Dalšího menu 01",
+        "submenu_Example_02": "Ukázka - Dalšího menu 02"
       }
     }
   
@@ -77,9 +77,9 @@
         "content": "Example - Content 02 ..."
       },
 
-      "99": {
-        "moremenu_Example_01": "Example - Next menu 01",
-        "moremenu_Example_02": "Example - Next menu 02"
+      "submenu_Individual": {
+        "submenu_Example_01": "Example - Next menu 01",
+        "submenu_Example_02": "Example - Next menu 02"
       }
     }
   },

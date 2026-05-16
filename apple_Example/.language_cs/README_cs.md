@@ -45,7 +45,7 @@ img2b64 cesta_k_souboru.png
 - Stáhnout soubor
 - Otevřít soubor - sám se nainstaluje
 
-> [!WARNING]
+> [!NOTE]
 > Po instalaci se soubor přesune do: ```~/Library/Services/```
 
 ```

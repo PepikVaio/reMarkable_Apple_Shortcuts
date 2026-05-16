@@ -5,42 +5,38 @@
 
 
 # Diacritics CS!
-Doplnění diakritiky do textu.
-
-## Popis
-Zkratka slouží k doplnění diakritiky do textu, který jste zapsali pomocí reMakrable klávesnice.
-* Text s diakritikou se uloží do schránky. 
-
-## Začínáme
-
-### Závislosti
-* iPhone
-* [AI module](https://apps.apple.com/cz/app/claude-by-anthropic/id6473753684?l=cs)
-
+> Doplnění diakritiky do textu.
+> <br>
+> Zkratka slouží k doplnění diakritiky do textu, který jste zapsali pomocí reMakrable klávesnice.
+- Text s diakritikou se uloží do schránky. 
 
 ### Ke stažení
 [![download](https://img.shields.io/badge/download-latest_release-slategray)](https://www.icloud.com/shortcuts/86b3cb8acc7b42e5832e6c30c3e6f715)
 
-### Instalace
-Stačí otevřít odkaz v iPhone.
+> [!IMPORTANT]
+> [AI module](https://apps.apple.com/cz/app/claude-by-anthropic/id6473753684?l=cs)
 
-### Používání
-Ideálně si nastavit zkratku na poklepání zad iPhone.
-
+<br>
 
 ## Pomoc
-Vytvořte problémy, pokud najdete problém.
-
 [![YouTube](https://img.shields.io/badge/video-YouTube-red)](https://youtu.be/11kzIVPvCu0?si=rPG1BSNr1YD6hQeM)
 
-## Historie verzí
-2.0
-* Přidán anglický jazyk.
-* Přidaná možnost smazat schránku.
-* Přidaná kontrola nových aktualizací.
-* Přesun textů na Github server a možnosti opravovat chyby v textu za běhu.
-* Ukládání konfiguračních souborů na iCloud Drive.
-* Změna oznámení o vložení upraveného textu.
+> [!TIP]
+> Ideálně si nastavit zkratku na poklepání zad iPhone.
 
-1.0
-* první vydání
+<br>
+
+## Historie verzí
+> [!NOTE]
+> ### version 2.0 ###
+> 
+> - Přidán anglický jazyk.
+> - Přidaná možnost smazat schránku.
+> - Přidaná kontrola nových aktualizací.
+> - Přesun textů na Github server a možnosti opravovat chyby v textu za běhu.
+> - Ukládání konfiguračních souborů na iCloud Drive.
+> - Změna oznámení o vložení upraveného textu.
+
+> [!NOTE]
+> ### version 1.0 ###
+> - první vydání

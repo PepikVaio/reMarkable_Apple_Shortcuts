@@ -39,16 +39,10 @@
         "content": "Ukázka - Content 02 ..."
       },
 
-
       "99": {
-        "moremenu_About": "O zkratce",
-        "moremenu_Feedback": "Poslat zpětnou vazbu",
-        "moremenu_Language": "Nastavit jazyk na Angličtinu",
-        "moremenu_Update": "Zakázat / Povolit aktualizace",
-        "moremenu_Reset": "Resetovat nastavení"
+        "moremenu_Example_01": "Ukázka - Dalšího menu 01",
+        "moremenu_Example_02": "Ukázka - Dalšího menu 02"
       }
-
-
     }
   
   
@@ -81,6 +75,11 @@
       "02": {
         "title": "Example - Title 02",
         "content": "Example - Content 02 ..."
+      },
+
+      "99": {
+        "moremenu_Example_01": "Example - Next menu 01",
+        "moremenu_Example_02": "Example - Next menu 02"
       }
     }
   },

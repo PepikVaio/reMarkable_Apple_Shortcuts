@@ -3,25 +3,24 @@
 
 
 # Main!
-Main shortcuts (required for all others).
+> - Main shortcuts (required for all others). <br>
+> - These shortcuts serve as a basic framework for working with the main shortcut.
+>   - Downloads files from github, where all the texts are.
+>   - Checks for first launch.
+>   - Checks for updates.
+>   - Adds main settings.
 
+<br>
 
-## Description
-These shortcuts serve as a basic framework for working with the main shortcut.
-* Downloads files from github, where all the texts are.
-* Checks for first launch.
-* Checks for updates.
-* Adds main settings.
+### Dependencies
+- iPhone
 
-### Download
+### Installation
 [![SYS_INIT](https://img.shields.io/badge/download-SYS_INIT-red)](https://www.icloud.com/shortcuts/4736e9829ac24d2a84e4c95549ad0105)
 
 [![SYS_check_Auto_Update](https://img.shields.io/badge/download-SYS_check_Auto_Update-orange)](https://www.icloud.com/shortcuts/d6461a8210874f20b3cff969f49d24cb)
-
 [![SYS_get_Data](https://img.shields.io/badge/download-SYS_get_Data-orange)](https://www.icloud.com/shortcuts/472a67f9dc7b4ef084ac01794419252b)
-
 [![SYS_check_First_Launch](https://img.shields.io/badge/download-SYS_check_First_Launch-orange)](https://www.icloud.com/shortcuts/676d43731bed4fa4b421e989a910a490)
-
 [![SYS_update_Version](https://img.shields.io/badge/download-SYS_update_Version-orange)](https://www.icloud.com/shortcuts/6dc4fab36d954f6987522cc74b1c9fcb)
 
 [![SYS_Options](https://img.shields.io/badge/download-SYS_Options-yellow)](https://www.icloud.com/shortcuts/56fb20785c5b4cf3a18ce7ac7d7cc5f7)

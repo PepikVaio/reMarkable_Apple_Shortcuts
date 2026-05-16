@@ -16,7 +16,7 @@
 Just open the link on your iPhone.
 
 > [!IMPORTANT]
-> Before installation, make sure you meet all the requirements.
+> Before installation, make sure you meet all the requirements:
 > - iPhone
 > - [apple_Main](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Main)
 

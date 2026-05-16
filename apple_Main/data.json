@@ -22,12 +22,7 @@
 
       "name": "Název:",
       "version": "Verze:",
-      "developer": "Vývojář:",
-
-      "description": [
-        "*** Popis: ***",
-        "------------------------"
-      ]
+      "developer": "Vývojář:"
     },
 
     "first_Launch": {

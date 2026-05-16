@@ -3,59 +3,52 @@
 [![supported: iPhone](https://img.shields.io/badge/iPhone-supported-blueviolet)](https://www.apple.com/cz/iphone/)
 
 # Example!
-Ukázková zkratka pro demonstrační účely.
+> - Ukázková zkratka pro demonstrační účely
+> - Zkratka slouží pouze jako šablona, pro vytvoření vlastní zkratky
 
-## Popis
-Zkratka slouží pouze jako ukázka, jak sestavit vlastní zkratku.
-
-## Začínáme
 
 ### Závislosti
-* iPhone
-
-### Ke stažení
-[![download](https://img.shields.io/badge/download-latest_release-slategray)]()
+- iPhone
 
 ### Instalace
-Stačí otevřít odkaz v iPhone.
+[![download](https://img.shields.io/badge/download-latest_release-slategray)]()
+- Stačí otevřít odkaz v iPhone.
 
-## Pomoc
-Vytvořte problémy, pokud najdete problém.
+<br>
 
+## Nástroje
+> [!NOTE]
+> Pokud chcete v Apple Zkratkách pracovat s menu a přidat vlastní obrázek, je nutné jej nejprve převést do formátu Base64.
+> - Apple Zkratky totiž v některých částech (např. dynamická menu, předávání dat mezi akcemi nebo API volání) neumí pracovat přímo se souborem obrázku jako takovým. Obrázek je proto potřeba převést do textové podoby, kterou lze snadno přenášet a ukládat.
 
-### img2b64
+### Jako script do terminálu
+[![download](https://img.shields.io/badge/download-img2b64-red)](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/blob/main/apple_Example/.tools/img2b64)
 
-#### Jako script do terminálu
-[![download](https://img.shields.io/badge/download-img2b64-red)](https://raw.githubusercontent.com/PepikVaio/reMarkable_Apple_Shortcuts/main/apple_Example/.tools/img2b64)
-
-* Stáhnout soubor
-* Otevřít terminál
-* Přesunout se do složky kde je stažený soubor pomocí příkazu ```cd```
-* Spustit příkazy
+- Stáhnout soubor
+- Otevřít terminál
+- Přesunout se do složky kde je stažený soubor pomocí příkazu ```cd```
+- Spustit příkazy
 
 ```
 sudo mkdir -p /usr/local/bin
 sudo mv img2b64.sh /usr/local/bin/img2b64
 sudo chmod +x /usr/local/bin/img2b64
-
-img2b64 soubor.png
 ```
 
+- Potom
 
-#### Jako rychlé menu pro Mac OS
-[![download](https://img.shields.io/badge/download-Copy-image-as-Base64-red)]()
-
-* Stáhnout soubor
-* Otevřít soubor - sám se nainstaluje
 ```
-Kliknout - Pravým tlačítkem na obrázek
+img2b64 cesta_k_souboru.png
+```
+
+### Jako rychlé menu pro Mac OS
+[![download](https://img.shields.io/badge/download-Copy_image_as_Base64-red)](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Example/.tools/Copy%20image%20as%20Base64.workflow/Contents)
+
+- Stáhnout soubor
+- Otevřít soubor - sám se nainstaluje
+
+```
+Kliknout - Pravým tlačítkem myši na obrázek
 Vybrat - Rychlé akce
 Kliknout - Copy image as Base64
 ```
-
-
-> [!IMPORTANT]
-> **System files require careful handling:**
-> - Paper Pro family root filesystems are read-only; `/etc` uses an overlay that resets on reboot
-> - Files created by scripts aren't tracked by apk, clean them up in `pre-deinstall`
-> - `vellum reenable` wraps `post-os-upgrade` with `mount-rw`/`mount-restore` automatically, but other hooks must call these themselves

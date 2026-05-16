@@ -4,53 +4,40 @@
     "title": "Example!",
     "version": "1.0",
     "description": {
-      "cs": "Doplnění diakritiky do textu.",
-      "en": "Adding diacritics to text."
+      "cs": "Ukázková zkratka pro demonstrační účely.",
+      "en": "Example shortcut for demonstration purposes."
     }
   },
 
   "cs": {
 
     "release": {
-
       "installed_Content": [
-        "Přidán anglický jazyk.",
-        "* Přidaná možnost smazat schránku.",
-        "* Přidaná kontrola nových aktualizací.",
-        "* Přesun textů na Github server a možnosti opravovat chyby v textu za běhu.",
-        "* Ukládání konfiguračních souborů na iCloud Drive.",
-        "* Změna oznámení o vložení upraveného textu."
+        "Ukázka - Změny zkratky",
+        "* Přidána možnost ...",
+        "* Přidána podpora ...",
+        "* Přidána kontrola ..."
       ]
     },
 
     "menu": {
 
-      "content": "┃Dokonalý text, bez starostí",
+      "content": "┃Ukázka - Hláška zkratky",
       "description": [
         "*** Popis: ***",
         "-------------",
-        "  * Přidejte si diakritiku do textu."
+        "  * Ukázka - Krátký popisek zkratky."
       ],
 
       "01": {
-        "title": "Text ze schránky",
-        "content": "Načte aktuální obsah schránky ...",
-        "message": "Zdá se, že schránka je prázdná:"
+        "title": "Ukázka - Title 01",
+        "content": "Ukázka - Content 01 ..."
       },
 
       "02": {
-        "title": "Text ze sešitu",
-        "content": "Načte text z vašeho sešitu na reMarkable ..."
+        "title": "Ukázka - Title 02",
+        "content": "Ukázka - Content 02 ..."
       }
-    },
-
-    "module_AI": {
-      "input": [
-        "Doplň do textu diakritiku.",
-        "Jen text co ti předám, nic jiného neposílej:"
-      ],
-      "done_Title": "Hotovo!",
-      "done_Content": "Do textu byla přidaná diakritika, máte ji uloženou ve schránce."
     }
   },
 
@@ -58,43 +45,30 @@
 
     "release": {
       "installed_Content": [
-        "English language added.",
-        "* Added option to clear the clipboard.",
-        "* Added check for new updates.",
-        "* Moved texts to GitHub server with ability to fix text errors on the fly.",
-        "* Saving configuration files to iCloud Drive.",
-        "* Changed notification for inserting modified text."
+        "Example - Shortcut changes",
+        "* Added option ...",
+        "* Added support ...",
+        "* Added checking ..."
       ]
     },
 
     "menu": {
-
-      "content": "┃Perfect text, no worries",
+      "content": "┃Example - Shortcut message",
       "description": [
         "*** Description: ***",
         "-------------------",
-        "  * Add diacritics to your text."
+        "  * Example - Short shortcut description."
       ],
 
       "01": {
-        "title": "Clipboard text",
-        "content": "Retrieves the current content of the clipboard ...",
-        "message": "It seems that the clipboard is empty:"
+        "title": "Example - Title 01",
+        "content": "Example - Content 01 ..."
       },
 
       "02": {
-        "title": "Import from notebook",
-        "content": "Loads text from your reMarkable notebook ..."
+        "title": "Example - Title 02",
+        "content": "Example - Content 02 ..."
       }
-    },
-
-    "module_AI": {
-      "input": [
-        "Add diacritics to the text.",
-        "Only send the text I provide, nothing else:"
-      ],
-      "done_Title": "Done!",
-      "done_Content": "Diacritics have been added to the text and it has been copied to the clipboard."
     }
   },
 

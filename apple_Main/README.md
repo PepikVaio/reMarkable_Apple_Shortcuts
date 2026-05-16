@@ -15,7 +15,7 @@
 ### Dependencies
 - iPhone
 
-### Installation
+### Download
 [![SYS_INIT](https://img.shields.io/badge/download-SYS_INIT-red)](https://www.icloud.com/shortcuts/4736e9829ac24d2a84e4c95549ad0105)
 
 [![SYS_check_Auto_Update](https://img.shields.io/badge/download-SYS_check_Auto_Update-orange)](https://www.icloud.com/shortcuts/d6461a8210874f20b3cff969f49d24cb)

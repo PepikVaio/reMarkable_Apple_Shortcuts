@@ -6,6 +6,7 @@
 > - Ukázková zkratka pro demonstrační účely.
 > - Zkratka slouží pouze jako šablona, pro vytvoření vlastní zkratky.
 
+<br>
 
 ### Závislosti
 - iPhone

@@ -50,9 +50,9 @@ img2b64 cesta_k_souboru.png
 - Otevřít soubor - sám se nainstaluje
 
 ```
-Kliknout - Pravým tlačítkem myši na obrázek
-Vybrat - Rychlé akce
-Kliknout - Copy image as Base64
+Klikni pravým tlačítkem na obrázek  
+Vyber možnost „Rychlé akce“  
+Klikni na „Copy image as Base64“
 ```
 
 ![image_02](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/blob/main/apple_Example/.images/Copy_image_as_Base64.png)

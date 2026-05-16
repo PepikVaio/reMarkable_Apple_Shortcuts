@@ -45,7 +45,7 @@ img2b64 path_to_file.png
 - Download the file
 - Open it - it will install automatically
 
-> [!WARNING]
+> [!NOTE]
 > After installation, the file is moved to: ```~/Library/Services/```
 
 ```

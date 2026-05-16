@@ -13,7 +13,8 @@
 [![download](https://img.shields.io/badge/download-latest_release-slategray)](https://www.icloud.com/shortcuts/86b3cb8acc7b42e5832e6c30c3e6f715)
 
 > [!IMPORTANT]
-> [AI module](https://apps.apple.com/cz/app/claude-by-anthropic/id6473753684?l=cs)
+> Před instalací se ujistěte, že splňujete všechny požadavky:
+> - [AI module](https://apps.apple.com/cz/app/claude-by-anthropic/id6473753684?l=cs)
 
 <br>
 

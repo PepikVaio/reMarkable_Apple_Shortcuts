@@ -1,1 +1,0 @@
-pravidla chování pro komunitu

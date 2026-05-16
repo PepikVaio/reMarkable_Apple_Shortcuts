@@ -5,43 +5,39 @@
 
 
 # Diacritics CS!
-Adding diacritics the text.
-
-## Description
-The shortcut is used to add diacritics to the text that is stored in the clipboard.
-* As soon as the diacritics are completed, the new text is saved to the clipboard. 
-* tested - iPhone 12 mini
-
-## Getting Started
-
-### Addictions
-* iPhone
-* [AI module](https://apps.apple.com/cz/app/claude-by-anthropic/id6473753684?l=cs)
-
+> Adding diacritics the text.
+> <br>
+> The shortcut is used to add diacritics to the text that is stored in the clipboard.
+- As soon as the diacritics are completed, the new text is saved to the clipboard. 
 
 ### Downloads
 [![download](https://img.shields.io/badge/download-latest_release-slategray)](https://www.icloud.com/shortcuts/86b3cb8acc7b42e5832e6c30c3e6f715)
 
+> [!IMPORTANT]
+> [AI module](https://apps.apple.com/cz/app/claude-by-anthropic/id6473753684?l=cs)
 
-### Installation
-Just open the link on your iPhone.
-
-### Usage
-Ideally, set a shortcut for tapping the back of the iPhone.
-
-[![YouTube](https://img.shields.io/badge/video-YouTube-red)](https://youtu.be/11kzIVPvCu0?si=rPG1BSNr1YD6hQeM)
+<br>
 
 ## Help
-Create issues if you find a problem.
+[![YouTube](https://img.shields.io/badge/video-YouTube-red)](https://youtu.be/11kzIVPvCu0?si=rPG1BSNr1YD6hQeM)
+
+> [!TIP]
+> Ideally, set a shortcut for tapping the back of the iPhone.
+
+<br>
+
+
 
 ## Version history
-2.0
-* English language added.
-* Added option to delete clipboard.
-* Added check for new updates.
-* Moving the texts to the Github server and the ability to correct errors in the text on the fly.
-* Saving configuration files to iCloud Drive.
-* Changed the notification for inserting edited text.
+> [!NOTE]
+> ### version 2.0 ###
+> - English language added.
+> - Added option to delete clipboard.
+> - Added check for new updates.
+> - Moving the texts to the Github server and the ability to correct errors in the text on the fly.
+> - Saving configuration files to iCloud Drive.
+> - Changed the notification for inserting edited text.
 
-1.0
-* first release
+> [!NOTE]
+> ### version 1.0 ###
+> - first release

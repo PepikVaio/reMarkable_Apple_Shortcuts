@@ -7,14 +7,8 @@
 > - Ukázková zkratka pro demonstrační účely.
 > - Zkratka slouží pouze jako šablona, pro vytvoření vlastní zkratky.
 
-<br>
-
-### Závislosti
-- iPhone
-
-### Instalace
+### Ke stažení
 [![download](https://img.shields.io/badge/download-latest_release-slategray)]()
-- Stačí otevřít odkaz v iPhone.
 
 <br>
 

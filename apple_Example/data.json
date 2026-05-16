@@ -40,8 +40,8 @@
       },
 
       "99": {
-        "submenu_Individual_Example_01": "Ukázka - Dalšího menu 01",
-        "submenu_Individual_Example_02": "Ukázka - Dalšího menu 02"
+        "individualmenu_Example_01": "Ukázka - Dalšího menu 01",
+        "individualmenu_Example_02": "Ukázka - Dalšího menu 02"
       }
     }
   
@@ -78,8 +78,8 @@
       },
 
       "99": {
-        "submenu_Individual_Example_01": "Example - Next menu 01",
-        "submenu_Individual_Example_02": "Example - Next menu 02"
+        "individualmenu_Example_01": "Example - Next menu 01",
+        "individualmenu_Example_02": "Example - Next menu 02"
       }
     }
   },

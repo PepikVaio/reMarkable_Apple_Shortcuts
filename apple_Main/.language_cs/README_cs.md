@@ -3,9 +3,9 @@
 
 
 # Main!
-> Hlavní zkratky (vyžadované pro všechny ostatní).
+> Hlavní zkratky (vyžadované pro všechny ostatní zkratky).
 > <br>
-> Tyto zkratky slouží jako základní framework pro práci s hlavní zkratkou.
+> Tyto zkratky slouží jako základní framework pro práci s ostatními zkratkami.
 - Stahují soubory z GitHubu, kde jsou uloženy všechny texty.
 - Kontrolují první spuštění.
 - Kontrolují aktualizace.

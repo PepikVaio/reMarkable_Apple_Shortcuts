@@ -26,6 +26,8 @@ Vytvořte problémy, pokud najdete problém.
 ### img2b64
 
 #### Jako script do terminálu
+[![download](https://img.shields.io/badge/download-img2b64-red)](https://raw.githubusercontent.com/PepikVaio/reMarkable_Apple_Shortcuts/main/apple_Example/.tools/img2b64)
+
 * Stáhnout soubor
 * Otevřít terminál
 * Přesunout se do složky kde je stažený soubor pomocí příkazu ```cd```
@@ -41,6 +43,8 @@ img2b64 soubor.png
 
 
 #### Jako rychlé menu pro Mac OS
+[![download](https://img.shields.io/badge/download-Copy-image-as-Base64-red)]()
+
 * Stáhnout soubor
 * Otevřít soubor - sám se nainstaluje
 ```

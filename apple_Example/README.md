@@ -4,8 +4,9 @@
 
 
 # Example!
-> - Example shortcut for demonstration purposes.
-> - This shortcut serves only as a template for creating your own shortcut.
+> Example shortcut for demonstration purposes.
+> <br>
+> This shortcut serves only as a template for creating your own shortcut.
 
 ### Download
 [![download](https://img.shields.io/badge/download-latest_release-slategray)]()

@@ -19,7 +19,6 @@
     ],
     
     "label": {
-
       "name": "Název:",
       "version": "Verze:",
       "developer": "Vývojář:"
@@ -101,15 +100,9 @@
     ],
     
     "label": {
-
       "name": "Name:",
       "version": "Version:",
-      "developer": "Developer:",
-
-      "description": [
-        "*** Description: ***",
-        "------------------------"
-      ]
+      "developer": "Developer:"
     },
 
     "first_Launch": {

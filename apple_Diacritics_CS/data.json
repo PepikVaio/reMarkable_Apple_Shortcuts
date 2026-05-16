@@ -26,7 +26,6 @@
     "menu": {
 
       "content": "┃Dokonalý text, bez starostí",
-
       "description": [
         "*** Popis: ***",
         "-------------",
@@ -70,9 +69,8 @@
 
     "menu": {
 
-      "content": [
-        "┃Perfect text, no worries",
-        "",
+      "content": "┃Perfect text, no worries",
+      "description": [
         "*** Description: ***",
         "-------------------",
         "  * Add diacritics to your text."

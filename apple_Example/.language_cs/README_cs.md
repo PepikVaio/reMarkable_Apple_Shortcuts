@@ -4,8 +4,9 @@
 
 
 # Example!
-> - Ukázková zkratka pro demonstrační účely.
-> - Zkratka slouží pouze jako šablona, pro vytvoření vlastní zkratky.
+> Ukázková zkratka pro demonstrační účely.
+> <br>
+> Zkratka slouží pouze jako šablona, pro vytvoření vlastní zkratky.
 
 ### Ke stažení
 [![download](https://img.shields.io/badge/download-latest_release-slategray)]()

@@ -3,17 +3,13 @@
 
 
 # Main!
-> - Main shortcuts (required for all others). <br>
-> - These shortcuts serve as a basic framework for working with the main shortcut.
->   - Downloads files from github, where all the texts are.
->   - Checks for first launch.
->   - Checks for updates.
->   - Adds main settings.
-
-<br>
-
-### Dependencies
-- iPhone
+> Main shortcuts (required for all others).
+> <br>
+> These shortcuts serve as a basic framework for working with the main shortcut.
+- Downloads files from github, where all the texts are.
+- Checks for first launch.
+- Checks for updates.
+- Adds main settings.
 
 ### Download
 [![SYS_INIT](https://img.shields.io/badge/download-SYS_INIT-red)](https://www.icloud.com/shortcuts/4736e9829ac24d2a84e4c95549ad0105)

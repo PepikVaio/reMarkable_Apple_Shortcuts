@@ -49,7 +49,10 @@ img2b64 path_to_file.png
 [![download](https://img.shields.io/badge/download-Copy_image_as_Base64-red)](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/blob/main/apple_Example/.tools/Copy%20image%20as%20Base64.zip)
 
 - Download the file
-- Open it — it will install automatically
+- Open it - it will install automatically
+
+> [!WARNING]
+> After installation, the file is moved to: ```~/Library/Services/```
 
 ```
 Right-click on the image  

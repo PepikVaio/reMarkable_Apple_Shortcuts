@@ -12,7 +12,7 @@
 			<key>NSMenuItem</key>
 			<dict>
 				<key>default</key>
-				<string>Copy Image as Base64</string>
+				<string>Copy image as Base64</string>
 			</dict>
 			<key>NSMessage</key>
 			<string>runWorkflowAsService</string>

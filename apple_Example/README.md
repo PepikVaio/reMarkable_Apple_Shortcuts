@@ -43,7 +43,7 @@ sudo chmod +x /usr/local/bin/img2b64
 img2b64 path_to_file.png
 ```
 
-![image_01](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/blob/main/apple_Example/.images/img2b64.png)
+![image_01](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/blob/main/apple_Example/.images/tool_img2b64.png)
 
 ### As a macOS Quick Action menu
 [![download](https://img.shields.io/badge/download-Copy_image_as_Base64-red)](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/blob/main/apple_Example/.tools/Copy%20image%20as%20Base64.zip)
@@ -60,4 +60,4 @@ Select "Quick Actions"
 Click "Copy image as Base64"
 ```
 
-![image_02](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/blob/main/apple_Example/.images/Copy_image_as_Base64.png)
+![image_02](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/blob/main/apple_Example/.images/tool_Copy_image_as_Base64.png)

@@ -8,6 +8,7 @@
 > - Example shortcut for demonstration purposes.
 > - This shortcut serves only as a template for creating your own shortcut.
 
+<br>
 
 ### Dependencies
 - iPhone

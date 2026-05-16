@@ -19,18 +19,33 @@ Zkratka slouží pouze jako ukázka, jak sestavit vlastní zkratku.
 ### Instalace
 Stačí otevřít odkaz v iPhone.
 
-### Používání
-
 ## Pomoc
 Vytvořte problémy, pokud najdete problém.
 
-## img2b64
 
-### Jako script do terminálu
+### img2b64
+
+#### Jako script do terminálu
+* Stáhnout soubor
+* Otevřít terminál
+* Přesunout se do složky kde je stažený soubor pomocí příkazu ```cd```
+* Spustit příkazy
+
+```
 sudo mkdir -p /usr/local/bin
 sudo mv img2b64.sh /usr/local/bin/img2b64
 sudo chmod +x /usr/local/bin/img2b64
-img2b64 obrazek.png
 
-### Jako rychlé menu pro iOS
-otevřít, samo se nainstaluje
+img2b64 soubor.png
+```
+
+
+#### Jako rychlé menu pro Mac OS
+* Stáhnout soubor
+* Otevřít soubor - sám se nainstaluje
+```
+Kliknout - Pravým tlačítkem na obrázek
+Vybrat - Rychlé akce
+Kliknout - Copy image as Base64
+```
+

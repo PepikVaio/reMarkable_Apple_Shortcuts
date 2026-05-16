@@ -3,9 +3,9 @@
 
 
 # Main!
-> Main shortcuts (required for all others).
+> Main shortcuts (required for all other shortcuts).
 > <br>
-> These shortcuts serve as a basic framework for working with the main shortcut.
+> These shortcuts serve as a basic framework for working with other shortcuts.
 - Downloads files from github, where all the texts are.
 - Checks for first launch.
 - Checks for updates.

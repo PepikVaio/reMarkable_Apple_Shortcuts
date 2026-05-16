@@ -85,7 +85,7 @@
           "Pokusím se odpovědět co nejdříve.",
           ""
         ],
-        "other_Info": "Lituji, žádné další nastavení není!"
+        "other_Info": "Tato zkratka nemá další nastavení!"
       }
     }
   },
@@ -166,7 +166,7 @@
           "I will try to reply as soon as possible.",
           ""
         ],
-        "other_Info": "Sorry, there are no other settings!"
+        "other_Info": "This shortcut has no additional settings!"
       }
     }
   },

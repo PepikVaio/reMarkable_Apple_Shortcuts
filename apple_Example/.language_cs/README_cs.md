@@ -52,3 +52,7 @@ Kliknout - Pravým tlačítkem myši na obrázek
 Vybrat - Rychlé akce
 Kliknout - Copy image as Base64
 ```
+
+
+
+![image_01](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/blob/main/apple_Example/.tools/.images/Copy_image_as_Base64.png)

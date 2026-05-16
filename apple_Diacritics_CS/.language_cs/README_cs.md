@@ -44,12 +44,3 @@ Vytvořte problémy, pokud najdete problém.
 
 1.0
 * první vydání
-
-## Autoři
-Wajsar Josef
-* Wajsar.Josef@hotmail.com
-
-## Poděkování
-Inspirace, úryvky kódu atd...
-* [readme - vícejazyčné](https://github.com/jonatasemidio/multilanguage-readme-pattern)
-* [readme - ikony](https://shields.io/)

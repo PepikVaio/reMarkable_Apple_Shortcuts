@@ -45,13 +45,3 @@ Create issues if you find a problem.
 
 1.0
 * first release
-
-
-## Authors
-Wajsar Josef
-* Wajsar.Josef@hotmail.com
-
-## Acknowledgements
-Inspiration, code snippets, etc...
-* [readme - multi language](https://github.com/jonatasemidio/multilanguage-readme-pattern)
-* [readme - icons](https://shields.io/)

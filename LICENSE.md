@@ -2,7 +2,7 @@
 [![cs](https://img.shields.io/badge/lang-cs-springgreen.svg)](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/blob/main/.language_cs/LICENSE.cs.md)
 
 
-# Creative Commons Attribution-NonCommercial-NoDerivs 4.0
+## Creative Commons Attribution-NonCommercial-NoDerivs 4.0
 
 > [!NOTE]
 > This work is protected by copyright and is licensed under the CC BY-NC-ND 4.0 license.

@@ -38,6 +38,3 @@ Create issues if you find a problem.
 > Inspiration, code snippets, etc...
 > - [readme - multi language](https://github.com/jonatasemidio/multilanguage-readme-pattern)
 > - [readme - icons](https://shields.io/)
-
-
-

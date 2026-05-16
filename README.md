@@ -4,39 +4,40 @@
 
 
 # Apple shortcuts
-A better workflow with your reMarkable tablet.
+> A better workflow with your reMarkable tablet.
+> <br>
+> Use theese shortcuts for work with reMarkable.
+- tested - iPhone 12 Mini
+- tested - iPhone Air
 
+<br>
 
-## Description
-Use theese shortcuts for work with reMarkable.
-* tested - iPhone 12 Mini
-* tested - iPhone Air
-
-
-### Requirements
-* iPhone
-* [apple_Main](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Main)
-
-### Installation
+## Installation
 Just open the link on your iPhone.
+
+> [!IMPORTANT]
+> Before installation, make sure you meet all the requirements.
+> - iPhone
+> - [apple_Main](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Main)
 
 
 ### Usage
-* [apple_Diacritics_CS](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Diacritics_CS) - Adding diacritics to text.
+- [apple_Diacritics_CS](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Diacritics_CS) - Adding diacritics to text.
+- [apple_Main](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Main) - Main shortcuts (required for all others).
 
-* [apple_Main](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Main) - Main shortcuts (required for all others).
-
+<br>
 
 ## Help
 Create issues if you find a problem.
 
+> [!NOTE]
+> ### Authors
+> - **Name:** Wajsar Josef  
+> - **Email:** [Wajsar.Josef@hotmail.com](mailto:Wajsar.Josef@hotmail.com)
+> ### Acknowledgements
+> Inspiration, code snippets, etc...
+> - [readme - multi language](https://github.com/jonatasemidio/multilanguage-readme-pattern)
+> - [readme - icons](https://shields.io/)
 
-## Authors
-Wajsar Josef
-* Wajsar.Josef@hotmail.com
 
 
-## Acknowledgements
-Inspiration, code snippets, etc...
-* [readme - multi language](https://github.com/jonatasemidio/multilanguage-readme-pattern)
-* [readme - icons](https://shields.io/)

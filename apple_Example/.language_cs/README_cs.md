@@ -2,6 +2,7 @@
 [![cs](https://img.shields.io/badge/lang-cs-springgreen.svg)](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/blob/main/apple_Example/.language_cs/README_cs.md)
 [![supported: iPhone](https://img.shields.io/badge/iPhone-supported-blueviolet)](https://www.apple.com/cz/iphone/)
 
+
 # Example!
 > - Ukázková zkratka pro demonstrační účely.
 > - Zkratka slouží pouze jako šablona, pro vytvoření vlastní zkratky.

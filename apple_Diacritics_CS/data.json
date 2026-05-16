@@ -14,12 +14,16 @@
     "release": {
 
       "installed_Content": [
+        "2.0",
         "Přidán anglický jazyk.",
         "* Přidaná možnost smazat schránku.",
         "* Přidaná kontrola nových aktualizací.",
         "* Přesun textů na Github server a možnosti opravovat chyby v textu za běhu.",
         "* Ukládání konfiguračních souborů na iCloud Drive.",
-        "* Změna oznámení o vložení upraveného textu."
+        "* Změna oznámení o vložení upraveného textu.",
+        "",
+        "1.0",
+        "first release"
       ]
     },
 

@@ -3,8 +3,8 @@
 [![supported: iPhone](https://img.shields.io/badge/iPhone-supported-blueviolet)](https://www.apple.com/cz/iphone/)
 
 # Example!
-> - Ukázková zkratka pro demonstrační účely
-> - Zkratka slouží pouze jako šablona, pro vytvoření vlastní zkratky
+> - Ukázková zkratka pro demonstrační účely.
+> - Zkratka slouží pouze jako šablona, pro vytvoření vlastní zkratky.
 
 
 ### Závislosti

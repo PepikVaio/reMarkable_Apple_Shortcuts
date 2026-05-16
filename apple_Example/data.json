@@ -37,8 +37,21 @@
       "02": {
         "title": "Ukázka - Title 02",
         "content": "Ukázka - Content 02 ..."
+      },
+
+
+      "99": {
+        "moremenu_About": "O zkratce",
+        "moremenu_Feedback": "Poslat zpětnou vazbu",
+        "moremenu_Language": "Nastavit jazyk na Angličtinu",
+        "moremenu_Update": "Zakázat / Povolit aktualizace",
+        "moremenu_Reset": "Resetovat nastavení"
       }
+
+
     }
+  
+  
   },
 
   "en": {

@@ -8,6 +8,13 @@
 > This work is protected by copyright and is licensed under the CC BY-NC-ND 4.0 license.
 > <br>
 > You may copy, distribute, and share this work only for non-commercial purposes and only in its original form, without creating derivative works.
-> <br>
-> <br>
-> [![en](https://img.shields.io/badge/details-en-red.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+<br>
+
+> [!CAUTION]
+> **This license includes the following elements:**
+> - `BY` – Attribution is required; you must credit the author and source.
+> - `NC` – Non-commercial use only.
+> - `ND` – No derivatives; you may not distribute modified versions of the work.
+
+[![en](https://img.shields.io/badge/details-en-red.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)

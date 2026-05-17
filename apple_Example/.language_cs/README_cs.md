@@ -22,7 +22,7 @@
 
 - Stáhnout soubor
 - Otevřít terminál
-- Přesunout se do složky kde je stažený soubor pomocí příkazu ```cd```
+- Přesunout se do složky kde je stažený soubor pomocí příkazu `cd`
 - Spustit příkazy
 
 ```
@@ -46,7 +46,7 @@ img2b64 cesta_k_souboru.png
 - Otevřít soubor - sám se nainstaluje
 
 > [!NOTE]
-> Po instalaci se soubor přesune do: ```~/Library/Services/```
+> Po instalaci se soubor přesune do: `~/Library/Services/`
 
 ```
 Klikni pravým tlačítkem na obrázek  

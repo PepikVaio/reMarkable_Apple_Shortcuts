@@ -18,6 +18,7 @@
 > [!NOTE]
 > - `latest_release` - Main shortcut for thoughtful function.
 > - `latest_options` - Optional shortcut for additional settings.
+>   - If the setting is not available, a message is displayed.
 
 <br>
 

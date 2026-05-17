@@ -22,7 +22,7 @@
 
 - Download the file
 - Open terminal
-- Navigate to the folder where the file was downloaded using the ```cd``` command
+- Navigate to the folder where the file was downloaded using the `cd` command
 - Run the commands
 
 ```

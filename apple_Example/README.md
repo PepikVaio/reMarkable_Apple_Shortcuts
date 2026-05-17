@@ -14,6 +14,13 @@
 
 <br>
 
+## Help
+> [!NOTE]
+> - `latest_release` - Main shortcut for thoughtful function.
+> - `latest_options` - Optional shortcut for additional settings.
+
+<br>
+
 ## Tools
 > [!NOTE]
 > If you want to work with menus in Apple Shortcuts and add a custom image, you first need to convert it to Base64 format.

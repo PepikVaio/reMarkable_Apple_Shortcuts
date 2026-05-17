@@ -8,6 +8,13 @@
 > Toto dílo je chráněno autorským právem a je licencováno pod licencí CC BY-NC-ND 4.0.
 > <br>
 > Můžete kopírovat, distribuovat a přenášet dílo pouze za nekomerčních podmínek a bez vytváření odvozených děl.
-> <br>
-> <br>
-> [![cs](https://img.shields.io/badge/details-cs-springgreen.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.cs)
+
+<br>
+
+> [!CAUTION]
+> **Tato licence obsahuje následující prvky:**
+> - `BY` – Je nutné uvést autora a původní zdroj.
+> - `NC` – Pouze nekomerční využití.
+> - `ND` – Nesmíte vytvářet ani šířit odvozená díla.
+
+[![cs](https://img.shields.io/badge/details-cs-springgreen.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.cs)

@@ -6,7 +6,7 @@
 > Adding diacritics the text.
 > <br>
 > The shortcut is used to add diacritics to the text that is stored in the clipboard.
-- As soon as the diacritics are completed, the new text is saved to the clipboard. 
+> - As soon as the diacritics are completed, the new text is saved to the clipboard. 
 
 ### Downloads
 [![download](https://img.shields.io/badge/download-latest_release-slategray)](https://www.icloud.com/shortcuts/86b3cb8acc7b42e5832e6c30c3e6f715)

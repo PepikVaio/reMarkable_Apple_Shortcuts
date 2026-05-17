@@ -6,10 +6,10 @@
 > Hlavní zkratky (vyžadované pro všechny ostatní zkratky).
 > <br>
 > Tyto zkratky slouží jako základní framework pro práci s ostatními zkratkami.
-- Stahují soubory z GitHubu, kde jsou uloženy všechny texty.
-- Kontrolují první spuštění.
-- Kontrolují aktualizace.
-- Přidávají hlavní nastavení.
+> - Stahují soubory z GitHubu, kde jsou uloženy všechny texty.
+> - Kontrolují první spuštění.
+> - Kontrolují aktualizace.
+> - Přidávají hlavní nastavení.
 
 ### Ke stažení
 

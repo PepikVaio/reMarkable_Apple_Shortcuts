@@ -26,9 +26,9 @@
 
 ## Help
 > [!NOTE]
-> - `SYS_INIT` - The main shortcut, where it decides when other shortcuts will be launched.
-> - `SYS_check_Auto_Update` - Decides whether to check for updates.
-> - `SYS_get_Data` - Load and manage stored data.
-> - `SYS_check_First_Launch` - Detect the first launch.
-> - `SYS_update_Version` - Check for available updates.
-> - `SYS_Options` - Open default settings.
+> - `SYS_INIT` - Hlavní zkratka, která rozhoduje o spuštění ostatních zkratek.
+> - `SYS_check_Auto_Update` - Rozhoduje, zda zkontrolovat aktualizace.
+> - `SYS_get_Data` - Načítá a spravuje uložená data.
+> - `SYS_check_First_Launch` - Detekuje první spuštění.
+> - `SYS_update_Version` - Kontroluje dostupné aktualizace.
+> - `SYS_Options` - Otevře výchozí nastavení.

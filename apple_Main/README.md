@@ -12,14 +12,14 @@
 > - Adds main settings.
 
 ### Download
-[![SYS_INIT](https://img.shields.io/badge/download-SYS_INIT-red)](https://www.icloud.com/shortcuts/4736e9829ac24d2a84e4c95549ad0105)
+[![SYS_INIT](https://img.shields.io/badge/download-SYS_INIT-red)](https://www.icloud.com/shortcuts/ce99995204924dbca7867cc3611cec87)
 
-[![SYS_check_Auto_Update](https://img.shields.io/badge/download-SYS_check_Auto_Update-orange)](https://www.icloud.com/shortcuts/d6461a8210874f20b3cff969f49d24cb)
-[![SYS_get_Data](https://img.shields.io/badge/download-SYS_get_Data-orange)](https://www.icloud.com/shortcuts/472a67f9dc7b4ef084ac01794419252b)
-[![SYS_check_First_Launch](https://img.shields.io/badge/download-SYS_check_First_Launch-orange)](https://www.icloud.com/shortcuts/676d43731bed4fa4b421e989a910a490)
-[![SYS_update_Version](https://img.shields.io/badge/download-SYS_update_Version-orange)](https://www.icloud.com/shortcuts/6dc4fab36d954f6987522cc74b1c9fcb)
+[![SYS_check_Auto_Update](https://img.shields.io/badge/download-SYS_check_Auto_Update-orange)](https://www.icloud.com/shortcuts/203bdd44a3584f37a255b5587b4a4ab3)
+[![SYS_get_Data](https://img.shields.io/badge/download-SYS_get_Data-orange)](https://www.icloud.com/shortcuts/d9c6b7937c364b5984c441fd40698a3e)
+[![SYS_check_First_Launch](https://img.shields.io/badge/download-SYS_check_First_Launch-orange)](https://www.icloud.com/shortcuts/9cbeb41c1a79415fbccc66cfffb93fb4)
+[![SYS_update_Version](https://img.shields.io/badge/download-SYS_update_Version-orange)](https://www.icloud.com/shortcuts/ae0b299a3eff46f7b6055d21d9d64093)
 
-[![SYS_Options](https://img.shields.io/badge/download-SYS_Options-yellow)](https://www.icloud.com/shortcuts/56fb20785c5b4cf3a18ce7ac7d7cc5f7)
+[![SYS_Options](https://img.shields.io/badge/download-SYS_Options-yellow)](https://www.icloud.com/shortcuts/7d252abdb8dd4b5281331883e9117565)
 
 <br>
 

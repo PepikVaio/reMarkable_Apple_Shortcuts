@@ -7,7 +7,7 @@
 > Doplnění diakritiky do textu.
 > <br>
 > Zkratka slouží k doplnění diakritiky do textu, který jste zapsali pomocí reMakrable klávesnice.
-- Text s diakritikou se uloží do schránky. 
+> - Text s diakritikou se uloží do schránky. 
 
 ### Ke stažení
 [![download](https://img.shields.io/badge/download-latest_release-slategray)](https://www.icloud.com/shortcuts/86b3cb8acc7b42e5832e6c30c3e6f715)

@@ -18,6 +18,7 @@
 > [!NOTE]
 > - `latest_release` - Hlavní zkratka pro zamyšlenou funkci.
 > - `latest_options` - Volitelná zkratka pro další nastavení.
+>   - Pokud nastavení není k dispozici, zobrazí se zpráva.
 
 <br>
 

@@ -20,3 +20,14 @@
 [![SYS_update_Version](https://img.shields.io/badge/download-SYS_update_Version-orange)](https://www.icloud.com/shortcuts/6dc4fab36d954f6987522cc74b1c9fcb)
 
 [![SYS_Options](https://img.shields.io/badge/download-SYS_Options-yellow)](https://www.icloud.com/shortcuts/56fb20785c5b4cf3a18ce7ac7d7cc5f7)
+
+<br>
+
+## Help
+> [!NOTE]
+> - `SYS_INIT` - The main shortcut, where it decides when other shortcuts will be launched.
+> - `SYS_check_Auto_Update` - Decides whether to check for updates.
+> - `SYS_get_Data` - Load and manage stored data.
+> - `SYS_check_First_Launch` - Detect the first launch.
+> - `SYS_update_Version` - Check for available updates.
+> - `SYS_Options` - Open default settings.

@@ -14,6 +14,13 @@
 
 <br>
 
+## Help
+> [!NOTE]
+> - `latest_release` - Hlavní zkratka pro zamyšlenou funkci.
+> - `latest_options` - Volitelná zkratka pro další nastavení.
+
+<br>
+
 ## Nástroje
 > [!NOTE]
 > Pokud chcete v Apple Zkratkách pracovat s menu a přidat vlastní obrázek, je nutné jej nejprve převést do formátu Base64.

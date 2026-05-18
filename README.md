@@ -23,6 +23,7 @@ Just open the link on your iPhone.
 
 ### Usage
 - [apple_Diacritics_CS](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Diacritics_CS) - Adding diacritics to text.
+- [apple_Example](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Example) - Example shortcut for demonstration purposes.
 - [apple_Main](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Main) - Main shortcuts (required for all others).
 
 <br>

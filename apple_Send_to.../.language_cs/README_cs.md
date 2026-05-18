@@ -3,6 +3,7 @@
 
 # Send to...!
 > Safari do reMarkable.
+> <br>
 > Zkratka slouží k odeslání obsahu ze safari do tabletu reMarkable (článek, obrázek, …)
 > - Stránka se uloží do PDF a následně otevře v aplikaci reMarkable a následně synchronizuje v tebletu reMarkable.
 

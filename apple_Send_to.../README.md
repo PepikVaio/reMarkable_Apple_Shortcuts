@@ -3,6 +3,7 @@
 
 # Send to...!
 > Safari to reMarkable.
+> <br>
 > The shortcut is used to send content from Safari to the reMarkable tablet (article, image, etc.).
 > - The page is saved to PDF and then opened in the reMarkable app and subsequently synchronized on the reMarkable tablet.
 

@@ -55,3 +55,5 @@
 ## Poděkování
 > Inspirace, úryvky kódu atd...
 > - [javascript - readability](https://github.com/mozilla/readability)
+> - [javascript - epub-press-scriptable]([https://github.com/mozilla/readability](https://www.mozzafiller.com/posts/webpage-to-epub-ios)
+> - [webpage - Michale-Shafer]([https://www.mozzafiller.com/posts/webpage-to-epub-ios)

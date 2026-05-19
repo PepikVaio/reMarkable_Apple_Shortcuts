@@ -5,7 +5,7 @@
 > Safari do reMarkable.
 > <br>
 > Zkratka slouží k odeslání obsahu ze safari do tabletu reMarkable (článek, obrázek, …)
-> - Stránka se uloží do PDF a následně otevře v aplikaci reMarkable a následně synchronizuje v tebletu reMarkable.
+> - Stránka se uloží do PDF, následně se otevře v aplikaci reMarkable a synchronizuje se v tebletu reMarkable.
 
 ### Ke stažení
 [![download](https://img.shields.io/badge/download-latest_release-slategray)](https://www.icloud.com/shortcuts/8a8eb6c89ab34f7eb12ad012e8264c50)
@@ -55,5 +55,5 @@
 ## Poděkování
 > Inspirace, úryvky kódu atd...
 > - [javascript - readability](https://github.com/mozilla/readability)
-> - [javascript - epub-press-scriptable]([https://github.com/mozilla/readability](https://www.mozzafiller.com/posts/webpage-to-epub-ios)
-> - [webpage - Michale-Shafer]([https://www.mozzafiller.com/posts/webpage-to-epub-ios)
+> - [javascript - epub-press-scriptable](https://epub.press/?utm_source=chatgpt.com)
+> - [webpage - Michale-Shafer](https://www.mozzafiller.com/posts/webpage-to-epub-ios)

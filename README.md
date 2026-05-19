@@ -3,7 +3,7 @@
 [![supported: iPhone](https://img.shields.io/badge/iPhone-supported-blueviolet)](https://www.apple.com/cz/iphone/)
 
 
-# Apple shortcuts
+# Apple shortcuts!
 > A better workflow with your reMarkable tablet.
 > <br>
 > Use theese shortcuts for work with reMarkable.

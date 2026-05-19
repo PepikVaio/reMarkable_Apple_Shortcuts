@@ -9,7 +9,8 @@
 > - As soon as the diacritics are completed, the new text is saved to the clipboard. 
 
 ### Downloads
-[![download](https://img.shields.io/badge/download-latest_release-slategray)](https://www.icloud.com/shortcuts/86b3cb8acc7b42e5832e6c30c3e6f715)
+[![download](https://img.shields.io/badge/download-latest_release-slategray)](https://www.icloud.com/shortcuts/f6360ff191504f3f92e16db0512bc48b)
+[![download](https://img.shields.io/badge/download-latest_options-yellow)]()
 
 
 > [!IMPORTANT]

@@ -3,7 +3,7 @@
 [![supported: iPhone](https://img.shields.io/badge/iPhone-supported-blueviolet)](https://www.apple.com/cz/iphone/)
 
 
-# Apple zkratky
+# Apple zkratky!
 > Lepší workflow s vaším tabletem reMarkable.
 > <br>
 > Použijte tyto zkratky pro práci s reMarkable.

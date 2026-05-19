@@ -1,3 +1,9 @@
+/* Just a copy of the JS file, the original file on the official website:
+ * (cs) Jen kopie JS souboru, originalni soubor na oficiální stránce:
+ * "https://www.mozzafiller.com/posts/webpage-to-epub-ios"
+ * @Wajsar Josef
+ */
+
 /**
  * Modified version of epub-press-js (https://github.com/haroldtreen/epub-press-clients/tree/master/packages/epub-press-js)
  * which runs in Scriptable on iOS.

@@ -1,7 +1,6 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/tree/main/apple_Diacritics_CS)
 [![cs](https://img.shields.io/badge/lang-cs-springgreen.svg)](https://github.com/PepikVaio/reMarkable_Apple_Shortcuts/blob/main/apple_Diacritics_CS/.language_cs/README_cs.md)
 
-
 # Diacritics CS!
 > Adding diacritics the text.
 > <br>
@@ -11,8 +10,6 @@
 ### Downloads
 [![download](https://img.shields.io/badge/download-latest_release-slategray)](https://www.icloud.com/shortcuts/f6360ff191504f3f92e16db0512bc48b)
 <br>
-[![download](https://img.shields.io/badge/download-latest_options-yellow)]()
-
 
 > [!IMPORTANT]
 > Before installation, make sure you meet all the requirements:
@@ -27,8 +24,6 @@
 > Ideally, set a shortcut for tapping the back of the iPhone.
 
 <br>
-
-
 
 ## Version history
 > [!NOTE]

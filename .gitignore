@@ -1,0 +1,43 @@
+# =========================
+# macOS system files
+# =========================
+.DS_Store
+#.DS_Store?
+#._*
+#.Spotlight-V100
+#.Trashes
+#.fseventsd
+#.TemporaryItems
+#.apdisk
+
+# =========================
+# Windows system files (pokud někdo používá Windows)
+# =========================
+#Thumbs.db
+#ehthumbs.db
+#Desktop.ini
+
+# =========================
+# Git / IDE noise
+# =========================
+#*.log
+#*.tmp
+#*.swp
+#*.swo
+
+# VS Code
+#.vscode/
+#.history/
+
+# =========================
+# Apple Shortcuts / project metadata (volitelné)
+# =========================
+#*.icloud
+#*.download
+
+# =========================
+# build / export folders (pokud si je někdy přidáš)
+# =========================
+#dist/
+#build/
+#out/

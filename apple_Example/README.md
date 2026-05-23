@@ -8,9 +8,9 @@
 > This shortcut serves only as a template for creating your own shortcut.
 
 ### Download
-[![download](https://img.shields.io/badge/download-latest_release-slategray)](https://www.icloud.com/shortcuts/b324a797cdb84c4ea0d537e6db29ec8d)
+[![download](https://img.shields.io/badge/download-latest_release-slategray)](https://www.icloud.com/shortcuts/b7dd59ba045248a4a9a4c5fc27ed950c)
 <br>
-[![download](https://img.shields.io/badge/download-latest_options-yellow)](https://www.icloud.com/shortcuts/436d10c6045f4f7f86a087addb7befde)
+[![download](https://img.shields.io/badge/download-latest_options-yellow)](https://www.icloud.com/shortcuts/2990ec3be8c64be3a6a672a864c10bc4)
 
 <br>
 

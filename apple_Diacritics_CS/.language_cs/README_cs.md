@@ -10,7 +10,7 @@
 > - Text s diakritikou se uloží do schránky. 
 
 ### Ke stažení
-[![download](https://img.shields.io/badge/download-latest_release-slategray)](https://www.icloud.com/shortcuts/c4b6e3ff93b7421783aeb1e3ac1eea81)
+[![download](https://img.shields.io/badge/download-latest_release-slategray)](https://www.icloud.com/shortcuts/7632f6791df14488a019597591eac4a3)
 <br>
 
 > [!IMPORTANT]

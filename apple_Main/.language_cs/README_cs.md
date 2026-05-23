@@ -13,14 +13,14 @@
 
 ### Ke stažení
 
-[![SYS_INIT](https://img.shields.io/badge/download-SYS_INIT-red)](https://www.icloud.com/shortcuts/cd42b241442d4ee98f9791dd458950dd)
+[![SYS_INIT](https://img.shields.io/badge/download-SYS_INIT-red)](https://www.icloud.com/shortcuts/2e1d75878b044955b99ea0ff3214f704)
 <br>
-[![SYS_check_Auto_Update](https://img.shields.io/badge/download-SYS_check_Auto_Update-orange)](https://www.icloud.com/shortcuts/203bdd44a3584f37a255b5587b4a4ab3)
-[![SYS_get_Data](https://img.shields.io/badge/download-SYS_get_Data-orange)](https://www.icloud.com/shortcuts/428f517e658b4f48ba8347f2cd50b8c9)
-[![SYS_check_First_Launch](https://img.shields.io/badge/download-SYS_check_First_Launch-orange)](https://www.icloud.com/shortcuts/9cbeb41c1a79415fbccc66cfffb93fb4)
-[![SYS_update_Version](https://img.shields.io/badge/download-SYS_update_Version-orange)](https://www.icloud.com/shortcuts/ae0b299a3eff46f7b6055d21d9d64093)
+[![SYS_check_Auto_Update](https://img.shields.io/badge/download-SYS_check_Auto_Update-orange)](https://www.icloud.com/shortcuts/e79e33ba70bc4052a6269a68851411e9)
+[![SYS_get_Data](https://img.shields.io/badge/download-SYS_get_Data-orange)](https://www.icloud.com/shortcuts/2b88e2a9f28d48aea77db8f3a9e9c1e1)
+[![SYS_check_First_Launch](https://img.shields.io/badge/download-SYS_check_First_Launch-orange)](https://www.icloud.com/shortcuts/fcdb7a5962b04b60954304326fb74b56)
+[![SYS_update_Version](https://img.shields.io/badge/download-SYS_update_Version-orange)](https://www.icloud.com/shortcuts/5f54426ec95348a9a3aa3e32baf1c36c)
 <br>
-[![SYS_Options](https://img.shields.io/badge/download-SYS_Options-yellow)](https://www.icloud.com/shortcuts/4d5098b17d5b4a14be0ef7b35055869e)
+[![SYS_Options](https://img.shields.io/badge/download-SYS_Options-yellow)](https://www.icloud.com/shortcuts/94586e580f8f40f9a35e6aac9edef25d)
 
 <br>
 

@@ -41,3 +41,4 @@
 #dist/
 #build/
 #out/
+.DS_Store

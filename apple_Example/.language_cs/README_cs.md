@@ -8,7 +8,7 @@
 > Zkratka slouží pouze jako šablona, pro vytvoření vlastní zkratky.
 
 ### Ke stažení
-[![download](https://img.shields.io/badge/download-latest_release-slategray)](https://www.icloud.com/shortcuts/b7dd59ba045248a4a9a4c5fc27ed950c)
+[![download](https://img.shields.io/badge/download-latest_release-slategray)](https://www.icloud.com/shortcuts/a5480d9615ca4bab9511db40ef6b74a1)
 <br>
 [![download](https://img.shields.io/badge/download-latest_options-yellow)](https://www.icloud.com/shortcuts/2990ec3be8c64be3a6a672a864c10bc4)
 

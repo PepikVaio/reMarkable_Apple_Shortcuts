@@ -28,25 +28,25 @@
         "content": ""
       },
       "02": {
-        "title": "PC verze",
-        "content": ""
-      },
-      "03": {
         "title": "HTML pro ePub",
         "content": ""
       },
+      "03": {
+        "title": "Readability",
+        "content": ""
+      },
       "04": {
-        "title": "Pouze obrázky",
-        "content": "Zvolte obrázky.",
-        "question_01": {
-          "title": "Chcete upravit velikost obrázku?",
-          "content_01": "Zvolte šířku obrázku"
-        },
-        "question_02": {
-          "title": "Jak si přejete spojit obrázky?"
-        }
+        "title": "EpubPress",
+        "content": ""
       },
       "05": {
+        "title": "Další možnosti"
+      },
+      "06": {
+        "title": "PC verze",
+        "content": ""
+      },
+      "07": {
         "title": "Snímek obrazovky",
         "question_01": {
           "title": "Máte vytvořený snímek celé obrazovky a zkopírovaný ve schránce?",
@@ -57,11 +57,20 @@
           "content_05": "https://youtube.com/playlist?list=PL_EByhPygE7KMhG8dFomBlpF11fodE9en&si=mRWuF0zYBaheVh8Q"
         }
       },
-      "06": {
-        "title": "Readability"
+      "08": {
+        "title": "Pouze obrázky",
+        "content": "Zvolte obrázky.",
+        "question_01": {
+          "title": "Chcete upravit velikost obrázku?",
+          "content_01": "Zvolte šířku obrázku"
+        },
+        "question_02": {
+          "title": "Jak si přejete spojit obrázky?"
+        }
       },
-      "07": {
-        "title": "Epub press"
+      "09": {
+        "title": "Zpět",
+        "content": ""
       },
       "result": {
         "title": "Hotovo!",
@@ -91,25 +100,25 @@
         "content": ""
       },
       "02": {
-        "title": "PC version",
-        "content": ""
-      },
-      "03": {
         "title": "HTML for ePub",
         "content": ""
       },
+      "03": {
+        "title": "Readability"
+      },
       "04": {
-        "title": "Just images",
-        "content": "Select images.",
-        "question_01": {
-          "title": "Do you want to adjust the image size?",
-          "content": "Select the width of the image"
-        },
-        "question_02": {
-          "title": "How do you wish to combine the images?"
-        }
+        "title": "EpubPress"
       },
       "05": {
+        "title": "Other options",
+        "content": ""
+      },
+
+      "06": {
+        "title": "PC version",
+        "content": ""
+      },
+      "07": {
         "title": "Screenshot",
         "question_01": {
           "title": "Do you have a full screen shot created and copied to the clipboard?",
@@ -120,11 +129,20 @@
           "content_05": "https://youtube.com/playlist?list=PL_EByhPygE7KMhG8dFomBlpF11fodE9en&si=mRWuF0zYBaheVh8Q"
         }
       },
-      "06": {
-        "title": "Readability"
+      "08": {
+        "title": "Just images",
+        "content": "Select images.",
+        "question_01": {
+          "title": "Do you want to adjust the image size?",
+          "content": "Select the width of the image"
+        },
+        "question_02": {
+          "title": "How do you wish to combine the images?"
+        }
       },
-      "07": {
-        "title": "Epub press"
+      "09": {
+        "title": "Back",
+        "content": ""
       },
       "result": {
         "title": "Done!",

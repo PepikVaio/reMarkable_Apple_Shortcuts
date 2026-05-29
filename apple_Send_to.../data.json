@@ -25,22 +25,23 @@
       ],
       "01": {
         "title": "Apple PDF",
-        "content": ""
+        "content": "Jednoduché pdf."
       },
       "02": {
         "title": "HTML pro ePub",
-        "content": ""
+        "content": "Formátovaný text html do pdf."
       },
       "03": {
         "title": "Readability",
-        "content": ""
+        "content": "Script od readability."
       },
       "04": {
         "title": "EpubPress",
-        "content": ""
+        "content": "Script od epubpress."
       },
       "05": {
-        "title": "Další možnosti"
+        "title": "Další možnosti",
+        "content": "Objevte další možnosti."
       },
       "06": {
         "title": "PC verze",
@@ -48,6 +49,7 @@
       },
       "07": {
         "title": "Snímek obrazovky",
+        "content": "Nezapomeňte vytvořit snímek obrazovky.",
         "question_01": {
           "title": "Máte vytvořený snímek celé obrazovky a zkopírovaný ve schránce?",
           "content_01": "Vytvořte snímek celé obrazovky!",
@@ -59,7 +61,7 @@
       },
       "08": {
         "title": "Pouze obrázky",
-        "content": "Zvolte obrázky.",
+        "content": "Uložte si jen obrázky.",
         "question_01": {
           "title": "Chcete upravit velikost obrázku?",
           "content_01": "Zvolte šířku obrázku"
@@ -70,7 +72,7 @@
       },
       "09": {
         "title": "Zpět",
-        "content": ""
+        "content": "Vrátit se na předchozí možnosti."
       },
       "result": {
         "title": "Hotovo!",

@@ -99,21 +99,23 @@
       ],
       "01": {
         "title": "Apple PDF",
-        "content": ""
+        "content": "Simple pdf."
       },
       "02": {
         "title": "HTML for ePub",
-        "content": ""
+        "content": "Formatted text html to pdf."
       },
       "03": {
-        "title": "Readability"
+        "title": "Readability",
+        "content": "Script by readability."
       },
       "04": {
-        "title": "EpubPress"
+        "title": "EpubPress",
+        "content": "Script by epubpress."
       },
       "05": {
         "title": "Other options",
-        "content": ""
+        "content": "Discover more options."
       },
       "06": {
         "title": "PC version",
@@ -121,6 +123,7 @@
       },
       "07": {
         "title": "Screenshot",
+        "content": "Don't forget to take a screenshot.",
         "question_01": {
           "title": "Do you have a full screen shot created and copied to the clipboard?",
           "content_01": "Take a screenshot of the entire screen!",
@@ -132,7 +135,7 @@
       },
       "08": {
         "title": "Just images",
-        "content": "Select images.",
+        "content": "Save only images.",
         "question_01": {
           "title": "Do you want to adjust the image size?",
           "content": "Select the width of the image"
@@ -143,7 +146,7 @@
       },
       "09": {
         "title": "Back",
-        "content": ""
+        "content": "Go back to previous options."
       },
       "result": {
         "title": "Done!",

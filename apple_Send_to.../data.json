@@ -92,6 +92,9 @@
         "title": "❮ Zpět",
         "content": "Vrátit se na předchozí možnosti."
       },
+      "99": {
+        "submenu_Update": "Zakázat / Povolit zpět do Safari"
+      },
       "result": {
         "title": "Hotovo!",
         "content": "PDF bylo nahráno do tabletu reMarkable, zkontrolujte, zda je vše v pořádku a v případě potřeby zvolte jiný typ převodu.",

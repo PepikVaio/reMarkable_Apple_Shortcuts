@@ -29,7 +29,7 @@
       },
       "02": {
         "title": "HTML pro ePub",
-        "content": "Formátovaný text html do pdf."
+        "content": "Formátovaný html text do pdf."
       },
       "03": {
         "title": "Readability",
@@ -95,6 +95,7 @@
       "result": {
         "title": "Hotovo!",
         "content": "PDF bylo nahráno do tabletu reMarkable, zkontrolujte, zda je vše v pořádku a v případě potřeby zvolte jiný typ převodu.",
+
         "file_Name": "Zadejte název souboru!"
       }
     }
@@ -169,7 +170,8 @@
       "result": {
         "title": "Done!",
         "content": "The PDF has been uploaded to the reMarkable tablet, check if everything is OK and choose another type of conversion if necessary.",
-        "file_Name": "Enter a file name."
+
+        "file_Name": "Enter a file name!"
       }
     }
   },

@@ -50,28 +50,47 @@
       "07": {
         "title": "Snímek obrazovky",
         "content": "Nezapomeňte vytvořit snímek obrazovky.",
-        "question_01": {
-          "title": "Máte vytvořený snímek celé obrazovky a zkopírovaný ve schránce?",
-          "content_01": "Vytvořte snímek celé obrazovky!",
-          "content_02": "Zkopírujte jej do schránky, poté opět spusťte zkratku.",
-          "content_03": "Přehraje se YouTube video!",
-          "content_04": "Po zhlédnutí opět spusťte zkratku.",
-          "content_05": "https://youtube.com/playlist?list=PL_EByhPygE7KMhG8dFomBlpF11fodE9en&si=mRWuF0zYBaheVh8Q"
+
+        "question_01": "Máte vytvořený snímek celé obrazovky a zkopírovaný ve schránce?",
+        "answer_01": {
+          "content_01": "Ano",
+          "content_02": "Ne",
+          "content_03": "Potřebuji pomoc"
+        },
+        "info_01_02": {
+          "title": "Vytvořte snímek celé obrazovky!",
+          "content": "Zkopírujte jej do schránky, poté opět spusťte zkratku."
+        },
+        "info_01_03":{
+          "title": "Přehraje se YouTube video!",
+          "content": "Po zhlédnutí opět spusťte zkratku.",
+          "url": "https://youtube.com/playlist?list=PL_EByhPygE7KMhG8dFomBlpF11fodE9en&si=mRWuF0zYBaheVh8Q"
         }
       },
       "08": {
         "title": "Pouze obrázky",
         "content": "Uložte si jen obrázky.",
-        "question_01": {
-          "title": "Chcete upravit velikost obrázku?",
-          "content_01": "Zvolte šířku obrázku"
+        "info": "Zvolte obrázky",
+
+        "question_01": "Chcete upravit velikost obrázku?",
+        "answer_01": {
+          "content_01": "Ano",
+          "content_02": "Ne"
         },
-        "question_02": {
-          "title": "Jak si přejete spojit obrázky?"
+        "info_01_01": {
+          "title": "Zvolte šířku obrázku!"
+        },
+
+        "question_02": "Jak si přejete spojit obrázky?",
+        "answer_02": {
+          "content_01": "Vodorovně",
+          "content_02": "Svisle",
+          "content_03": "Do mřížky"
         }
+
       },
       "09": {
-        "title": "Zpět",
+        "title": "❮ Zpět",
         "content": "Vrátit se na předchozí možnosti."
       },
       "result": {

@@ -63,14 +63,13 @@
         },
         "info_01_03":{
           "title": "Přehraje se YouTube video!",
-          "content": "Po zhlédnutí opět spusťte zkratku.",
+          "content": "Po zhlédnutí, opět spusťte zkratku.",
           "url": "https://youtube.com/playlist?list=PL_EByhPygE7KMhG8dFomBlpF11fodE9en&si=mRWuF0zYBaheVh8Q"
         }
       },
       "08": {
         "title": "Pouze obrázky",
         "content": "Uložte si jen obrázky.",
-        "info": "Zvolte obrázky",
 
         "question_01": "Chcete upravit velikost obrázku?",
         "answer_01": {

@@ -116,7 +116,7 @@ blockquote {
 
 div.article p:first-of-type {
   text-indent: 0px;
-  color: red;
+  color: blue;
 }
 
 div.article p {
@@ -128,9 +128,4 @@ div.article p {
 /* Experimental */
 .image-container {
   text-align: center;
-}
-
-.image-container img {
-  display: inline-block;
-  vertical-align: top;
 }

@@ -37,3 +37,30 @@ window.addEventListener("load", () => {
   }
 
 });
+
+
+window.addEventListener("load", () => {
+
+  // Najdi skupiny obrázků za sebou
+  const allImgs = document.querySelectorAll("div.article img");
+  
+  allImgs.forEach(img => {
+    // Pokud obrázek ještě není v kontejneru
+    if (img.parentElement.classList.contains("image-container")) return;
+
+    // Sbírej obrázky za sebou
+    const group = [img];
+    let next = img.nextElementSibling;
+    while (next && next.tagName === "IMG") {
+      group.push(next);
+      next = next.nextElementSibling;
+    }
+
+    // Obal skupinu do kontejneru
+    const container = document.createElement("div");
+    container.classList.add("image-container");
+    img.parentNode.insertBefore(container, img);
+    group.forEach(i => container.appendChild(i));
+  });
+
+});

@@ -122,3 +122,17 @@ div.article p:first-of-type {
 div.article p {
   text-indent: 20px;
 }
+
+
+
+/* Experimental */
+.image-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
+
+.image-container img {
+  max-width: calc(50% - 5px);
+}

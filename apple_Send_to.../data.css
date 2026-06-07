@@ -101,7 +101,7 @@ header .metadata h3 {
   column-gap: 10px;
 }
 
-.intro img {
+img {
   width: auto;
   height: auto;
   max-width: 100%;

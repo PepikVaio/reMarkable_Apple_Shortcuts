@@ -44,14 +44,11 @@ window.addEventListener("load", () => {
 /* Experimental */
 window.addEventListener("load", () => {
 
-  // Najdi skupiny obrázků za sebou
   const allImgs = document.querySelectorAll("div.article img");
   
   allImgs.forEach(img => {
-    // Pokud obrázek ještě není v kontejneru
     if (img.parentElement.classList.contains("image-container")) return;
 
-    // Sbírej obrázky za sebou
     const group = [img];
     let next = img.nextElementSibling;
     while (next && next.tagName === "IMG") {
@@ -59,11 +56,15 @@ window.addEventListener("load", () => {
       next = next.nextElementSibling;
     }
 
-    // Obal skupinu do kontejneru
     const container = document.createElement("div");
     container.classList.add("image-container");
     img.parentNode.insertBefore(container, img);
-    group.forEach(i => container.appendChild(i));
+    group.forEach(i => {
+      if (group.length > 1) {
+        i.style.maxWidth = "calc(50% - 5px)";
+      }
+      container.appendChild(i);
+    });
   });
 
 });

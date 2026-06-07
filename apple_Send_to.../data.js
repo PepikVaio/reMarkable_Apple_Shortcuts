@@ -39,6 +39,9 @@ window.addEventListener("load", () => {
 });
 
 
+
+
+/* Experimental */
 window.addEventListener("load", () => {
 
   // Najdi skupiny obrázků za sebou

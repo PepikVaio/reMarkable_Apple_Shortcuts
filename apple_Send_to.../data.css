@@ -116,7 +116,7 @@ blockquote {
 
 div.article p:first-of-type {
   text-indent: 0px;
-  color: pink;
+  color: black;
 }
 
 div.article p {
@@ -132,6 +132,5 @@ div.article p {
 
 .image-container img {
   display: inline-block;
-  max-width: calc(50% - 5px);
   vertical-align: top;
 }

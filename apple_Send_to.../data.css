@@ -116,7 +116,7 @@ blockquote {
 
 div.article p:first-of-type {
   text-indent: 0px;
-  color: red;
+  color: green;
 }
 
 div.article p {

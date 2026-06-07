@@ -44,10 +44,8 @@ window.addEventListener("load", () => {
 /* Experimental */
 window.addEventListener("load", () => {
 
-  // Najdi všechny obrázky v article
   const allImgs = Array.from(document.querySelectorAll("div.article img"));
   
-  // Seskup obrázky které jsou ve stejném rodičovském elementu
   const groups = new Map();
   
   allImgs.forEach(img => {
@@ -58,17 +56,31 @@ window.addEventListener("load", () => {
     groups.get(parent).push(img);
   });
 
-  // Zpracuj každou skupinu
   groups.forEach((imgs, parent) => {
+    const count = imgs.length;
+    
+    // Vypočti optimální počet na řádek
+    let perRow;
+    if (count === 1) perRow = 1;
+    else if (count === 2) perRow = 2;
+    else if (count === 3) perRow = 3;
+    else if (count === 4) perRow = 2; // 2+2
+    else if (count === 5) perRow = 3; // 3+2
+    else if (count === 6) perRow = 3; // 3+3
+    else perRow = Math.ceil(Math.sqrt(count));
+
     const container = document.createElement("div");
     container.classList.add("image-container");
+    container.style.textAlign = "center";
     parent.parentNode.insertBefore(container, parent);
     
     imgs.forEach(img => {
+      img.style.maxWidth = `calc(${100 / perRow}% - ${perRow * 2}px)`;
+      img.style.display = "inline-block";
+      img.style.verticalAlign = "top";
       container.appendChild(img);
     });
 
-    // Odstraň prázdný parent pokud v něm nic nezbylo
     if (parent.innerHTML.trim() === "") {
       parent.remove();
     }

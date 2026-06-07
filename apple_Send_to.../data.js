@@ -24,7 +24,7 @@ window.addEventListener("load", () => {
 });
 
 
- /* Experimental */
+// Experimental
  window.addEventListener("load", () => {
 
   const root = getComputedStyle(document.documentElement);

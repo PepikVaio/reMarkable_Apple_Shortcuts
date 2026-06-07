@@ -105,7 +105,8 @@ img {
   width: auto;
   height: auto;
   max-width: 100%;
-  display: block;
+  /* display: block; */
+  display: inline-block;
 }
 
 blockquote {
@@ -116,7 +117,7 @@ blockquote {
 
 div.article p:first-of-type {
   text-indent: 0px;
-  color: red;
+  color: blue;
 }
 
 div.article p {

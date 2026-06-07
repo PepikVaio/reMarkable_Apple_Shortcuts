@@ -44,27 +44,34 @@ window.addEventListener("load", () => {
 /* Experimental */
 window.addEventListener("load", () => {
 
-  const allImgs = document.querySelectorAll("div.article img");
+  // Najdi všechny obrázky v article
+  const allImgs = Array.from(document.querySelectorAll("div.article img"));
+  
+  // Seskup obrázky které jsou ve stejném rodičovském elementu
+  const groups = new Map();
   
   allImgs.forEach(img => {
-    if (img.parentElement.classList.contains("image-container")) return;
-
-    const group = [img];
-    let next = img.nextElementSibling;
-    while (next && next.tagName === "IMG") {
-      group.push(next);
-      next = next.nextElementSibling;
+    const parent = img.closest("p, div, figure") || img.parentElement;
+    if (!groups.has(parent)) {
+      groups.set(parent, []);
     }
+    groups.get(parent).push(img);
+  });
 
+  // Zpracuj každou skupinu
+  groups.forEach((imgs, parent) => {
     const container = document.createElement("div");
     container.classList.add("image-container");
-    img.parentNode.insertBefore(container, img);
-    group.forEach(i => {
-      if (group.length > 1) {
-        i.style.maxWidth = "calc(50% - 5px)";
-      }
-      container.appendChild(i);
+    parent.parentNode.insertBefore(container, parent);
+    
+    imgs.forEach(img => {
+      container.appendChild(img);
     });
+
+    // Odstraň prázdný parent pokud v něm nic nezbylo
+    if (parent.innerHTML.trim() === "") {
+      parent.remove();
+    }
   });
 
 });

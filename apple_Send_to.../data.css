@@ -101,6 +101,10 @@ header .metadata h3 {
   column-gap: 10px;
 }
 
+.intro img {
+  max-height: 50px;
+}
+
 img {
   width: auto;
   height: auto;
@@ -116,6 +120,7 @@ blockquote {
 
 div.article p:first-of-type {
   text-indent: 0px;
+  color: red;
 }
 
 div.article p {

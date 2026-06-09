@@ -3,6 +3,8 @@
   --size_Font: 110%;
   --padding_Left_Side: 0px;
   --padding_Right_Side: 0px;
+  --size_QR: 50px;
+
 
   /* Experimental */
   --background: var(--set_White);
@@ -82,13 +84,13 @@ header h3:first-of-type {
 
 header .metadata {
   display: grid;
-  grid-template-columns: 50px auto;
+  grid-template-columns: var(--size_QR) auto;
   column-gap: 10px;
 }
 
 header .metadata img {
-  width: 50px;
-  height: 50px;
+  width: var(--size_QR);
+  height: var(--size_QR);
 }
 
 header .metadata h3 {
@@ -97,12 +99,14 @@ header .metadata h3 {
 
 .intro {
   display: grid;
-  grid-template-columns: 60% 40%;
+  grid-template-columns: auto 1fr;
   column-gap: 10px;
 }
 
 .intro img {
-  max-height: 50px;
+  /* zjistit, jestli funguje */
+  max-height: calc(300px - (var(--padding_Left_Side) + var(--padding_Right_Side)));
+  width: auto;
 }
 
 img {
